@@ -1,7 +1,6 @@
 import { Page } from "@playwright/test";
 import CommonConstants from "../../constants/CommonConstants";
 import Log from "../../logger/Log";
-import AlertActions from "./AlertActions";
 import UIElementActions from "./UIElementActions";
 import EditBoxActions from "./EditBoxActions";
 
@@ -9,12 +8,12 @@ import EditBoxActions from "./EditBoxActions";
 export default class UIActions {
   private elementAction: UIElementActions;
   private editBoxAction: EditBoxActions;
-  private alertAction: AlertActions;
+ 
 
   constructor(private page: Page) {
     this.elementAction = new UIElementActions(page);
      this.editBoxAction = new EditBoxActions(page);
-    this.alertAction = new AlertActions(this.page);
+    
   }
 
   /**
@@ -32,8 +31,7 @@ export default class UIActions {
   public setPage(page: Page) {
     this.page = page;
     this.elementAction = new UIElementActions(page);
-    //this.editBoxAction = new EditBoxActions(page);
-    this.alertAction = new AlertActions(this.page);
+    
   }
 
   /**
@@ -49,7 +47,7 @@ export default class UIActions {
    * @returns
    */
   public alert() {
-    return this.alertAction;
+    //return this.alertAction;
   }
 
   /**
@@ -184,10 +182,10 @@ export default class UIActions {
    * @param description description of element
    * @returns alert message
    */
-  public async acceptAlertOnElementClick(selector: string, description: string): Promise<string> {
-    const message = this.alert().accept();
-    return this.handleAlert(selector, description, message);
-  }
+  // public async acceptAlertOnElementClick(selector: string, description: string): Promise<string> {
+  //   const message = this.alert().accept();
+  //   return this.handleAlert(selector, description, message);
+  // }
 
   /**
    * Clicks the an element, dismisses the alert and returns the alert message
@@ -195,10 +193,10 @@ export default class UIActions {
    * @param description description of element
    * @returns alert message
    */
-  public async dismissAlertOnElementClick(selector: string, description: string): Promise<string> {
-    const message = this.alert().dismiss();
-    return this.handleAlert(selector, description, message);
-  }
+  // public async dismissAlertOnElementClick(selector: string, description: string): Promise<string> {
+  //   const message = this.alert().dismiss();
+  //   return this.handleAlert(selector, description, message);
+  // }
 
   /**
    * Clicks the an element, accepts the alert prompt and returns the alert message
@@ -207,10 +205,10 @@ export default class UIActions {
    * @param promptText A text to enter in prompt.
    * @returns alert message
    */
-  public async acceptPromptOnElementClick(selector: string, description: string, promptText: string): Promise<string> {
-    const message = this.alert().accept(promptText);
-    return this.handleAlert(selector, description, message);
-  }
+  // public async acceptPromptOnElementClick(selector: string, description: string, promptText: string): Promise<string> {
+  //   const message = this.alert().accept(promptText);
+  //   return this.handleAlert(selector, description, message);
+  // }
 
   private async handleAlert(selector: string, description: string, message: Promise<string>): Promise<string> {
     await this.elementAction.setElement(selector, description).click();
