@@ -40,5 +40,5 @@ jobs:
       if: always()
       uses: deblockt/cucumber-report-annotations-action@v1.7
       with:
-        access-token: ${{ secrets.PAT }}
+        access-token: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
         path: "**/cucumber.json"
