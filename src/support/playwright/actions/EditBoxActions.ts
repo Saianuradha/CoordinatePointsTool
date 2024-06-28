@@ -65,7 +65,7 @@ export default class EditBoxActions extends UIElementActions {
    */
   public async typeAndTab(value: string) {
     Log.info(`Entering ${this.description} as ${value} and Tab`);
-    await this.getLocator().type(value);
+    await this.getLocator().fill(value);
     await this.getLocator().press("Tab");
     return this;
   }
