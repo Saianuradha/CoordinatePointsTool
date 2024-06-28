@@ -1,40 +1,46 @@
-name: Automation Test Execution 
+name: Automation Test Execution
 
 on:
   push:
     branches: [ master ]
+  workflow_dispatch:
 
 jobs:
   tests:
     name: Cucumber Features Execution
     runs-on: windows-latest
     steps:
-    - name: Checkout Repository
-      uses: actions/checkout@v4
+      - name: Checkout code from repository
+        uses: actions/checkout@v3
 
-    - name: Setting up Node.js 20
-      uses: actions/setup-node@v4
-      with:
-        always-auth: true
-        node-version: '20.x'
-        cache: 'npm'
+      - name: Setting up Node.js 16
+        uses: actions/setup-node@v3
+        with:
+          node-version: 16
+          cache: 'npm'
 
-    - name: Install Dependencies
-      run: npm install
+      - name: Install dependencies    
+        run: npm ci
 
-    - name: Run Tests
-      run: npm run test
+      - name: Set execute permissions
+        run: |
+          chmod +x ./node_modules/.bin/cucumber-js
+          chmod +x ./src/support/reporter/HTMLReporter.ts
+          chmod +x ./src/support/reporter/CucumberReporter.ts
 
-    - name: Upload Test Results
-      if: always()
-      uses: actions/upload-artifact@v3
-      with:
-        name: test-results
-        path: test-results  
+      - name: Test execution
+        run: npm run test
 
-    - name: Generate Cucumber Report
-      if: always()
-      uses: deblockt/cucumber-report-annotations-action@v1.7
-      with:
-        access-token: ${{ secrets.GITHUB_TOKEN }}
-        path: "**/cucumber.json"
+      - name: Upload test results
+        if: always()
+        uses: actions/upload-artifact@v3
+        with:
+          name: test-results
+          path: test-results
+
+      - name: Generating cucumber report
+        if: always()
+        uses: deblockt/cucumber-report-annotations-action@v1.7
+        with:
+          access-token: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
+          path: "**/cucumber.json"
