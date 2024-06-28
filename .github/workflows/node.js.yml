@@ -2,7 +2,8 @@ name: Automation Test Execution
 
 on:
   push:
-    branches: [ master ]
+    branches: [ main ]
+    
 
 jobs:
   tests:
