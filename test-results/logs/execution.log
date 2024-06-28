@@ -1,0 +1,2331 @@
+2024-06-27 16:18:19 info: 	##############################################################################
+2024-06-27 16:18:19 info: 	SCENARIO: VALID INPUT WITH MULTIPLE POINTS: 3 - STARTED
+2024-06-27 16:18:19 info: 	##############################################################################
+2024-06-27 16:18:19 info: 	Navigate to Home page
+2024-06-27 16:18:20 info: 	##############################################################################
+2024-06-27 16:18:20 info: 	SCENARIO: VALID INPUT WITH MULTIPLE POINTS: 3 - PASSED
+2024-06-27 16:18:20 info: 	##############################################################################
+2024-06-27 21:17:01 info: 	##############################################################################
+2024-06-27 21:17:01 info: 	SCENARIO: VALID INPUT WITH MULTIPLE POINTS: 16 - STARTED
+2024-06-27 21:17:01 info: 	##############################################################################
+2024-06-27 21:17:01 info: 	Navigate to Home page
+2024-06-27 21:17:01 info: 	##############################################################################
+2024-06-27 21:17:01 info: 	SCENARIO: VALID INPUT WITH MULTIPLE POINTS: 16 - UNDEFINED
+2024-06-27 21:17:01 info: 	##############################################################################
+2024-06-27 21:17:43 info: 	##############################################################################
+2024-06-27 21:17:43 info: 	SCENARIO: VALID INPUT WITH MULTIPLE POINTS: 16 - STARTED
+2024-06-27 21:17:43 info: 	##############################################################################
+2024-06-27 21:17:44 info: 	Navigate to Home page
+2024-06-27 21:17:44 info: 	##############################################################################
+2024-06-27 21:17:44 info: 	SCENARIO: VALID INPUT WITH MULTIPLE POINTS: 16 - UNDEFINED
+2024-06-27 21:17:44 info: 	##############################################################################
+2024-06-27 21:19:15 info: 	##############################################################################
+2024-06-27 21:19:15 info: 	SCENARIO: VALID INPUT WITH MULTIPLE POINTS: 16 - STARTED
+2024-06-27 21:19:15 info: 	##############################################################################
+2024-06-27 21:19:15 info: 	Navigate to Home page
+2024-06-27 21:22:57 info: 	##############################################################################
+2024-06-27 21:22:57 info: 	SCENARIO: VALID INPUT WITH MULTIPLE POINTS: 16 - STARTED
+2024-06-27 21:22:57 info: 	##############################################################################
+2024-06-27 21:22:57 info: 	Navigate to Home page
+2024-06-27 21:22:58 info: 	##############################################################################
+2024-06-27 21:22:58 info: 	SCENARIO: VALID INPUT WITH MULTIPLE POINTS: 16 - PASSED
+2024-06-27 21:22:58 info: 	##############################################################################
+2024-06-27 21:41:19 info: 	##############################################################################
+2024-06-27 21:41:19 info: 	SCENARIO: VALID INPUT WITH MULTIPLE POINTS: 16 - STARTED
+2024-06-27 21:41:19 info: 	##############################################################################
+2024-06-27 21:41:20 info: 	Navigate to Home page
+2024-06-27 21:41:20 info: 	Entering Coordinate Points as 0.0,1.0 2.0,3.0 4.0,5.0
+2024-06-27 21:41:21 error: 	Valid input with multiple points: 16 - FAILED
+TypeError: this.web.Pause is not a function
+    at World.<anonymous> (C:\Users\shyam\CoordinatePointsTool\src\web\steps\coordinatePointsSteps.ts:11:20)
+    at fulfilled (C:\Users\shyam\CoordinatePointsTool\src\web\steps\coordinatePointsSteps.ts:5:58)
+2024-06-27 21:41:21 info: 	##############################################################################
+2024-06-27 21:41:21 info: 	SCENARIO: VALID INPUT WITH MULTIPLE POINTS: 16 - FAILED
+2024-06-27 21:41:21 info: 	##############################################################################
+2024-06-27 21:42:23 info: 	##############################################################################
+2024-06-27 21:42:23 info: 	SCENARIO: VALID INPUT WITH MULTIPLE POINTS: 16 - STARTED
+2024-06-27 21:42:23 info: 	##############################################################################
+2024-06-27 21:42:23 info: 	Navigate to Home page
+2024-06-27 21:42:24 info: 	Entering Coordinate Points as 0.0,1.0 2.0,3.0 4.0,5.0
+2024-06-27 21:42:54 info: 	##############################################################################
+2024-06-27 21:42:54 info: 	SCENARIO: VALID INPUT WITH MULTIPLE POINTS: 16 - PASSED
+2024-06-27 21:42:54 info: 	##############################################################################
+2024-06-27 22:03:44 info: 	##############################################################################
+2024-06-27 22:03:44 info: 	SCENARIO: VALID INPUT WITH MULTIPLE POINTS: 16 - STARTED
+2024-06-27 22:03:44 info: 	##############################################################################
+2024-06-27 22:03:44 info: 	Navigate to Home page
+2024-06-27 22:03:45 info: 	Entering Coordinate Points as 0.0,1.0 2.0,3.0 4.0,5.0
+2024-06-27 22:03:45 info: 	Getting text content of Message
+2024-06-27 22:03:45 info: 	Waiting for Message to be visible in DOM
+2024-06-27 22:03:45 error: 	Valid input with multiple points: 16 - FAILED
+Error: expect(received).toContain(expected) // indexOf
+
+Expected substring: "Valid Input"
+Received string:    "Valid input"
+    at Proxy.<anonymous> (C:\Users\shyam\CoordinatePointsTool\node_modules\playwright\lib\matchers\expect.js:194:37)
+    at CommonPage.<anonymous> (C:\Users\shyam\CoordinatePointsTool\src\web\pages\CommonPage.ts:35:33)
+    at fulfilled (C:\Users\shyam\CoordinatePointsTool\src\web\pages\CommonPage.ts:5:58)
+2024-06-27 22:03:45 info: 	##############################################################################
+2024-06-27 22:03:45 info: 	SCENARIO: VALID INPUT WITH MULTIPLE POINTS: 16 - FAILED
+2024-06-27 22:03:45 info: 	##############################################################################
+2024-06-27 22:04:27 info: 	##############################################################################
+2024-06-27 22:04:27 info: 	SCENARIO: VALID INPUT WITH MULTIPLE POINTS: 16 - STARTED
+2024-06-27 22:04:27 info: 	##############################################################################
+2024-06-27 22:04:27 info: 	Navigate to Home page
+2024-06-27 22:04:28 info: 	Entering Coordinate Points as 0.0,1.0 2.0,3.0 4.0,5.0
+2024-06-27 22:04:28 info: 	Getting text content of Message
+2024-06-27 22:04:28 info: 	Waiting for Message to be visible in DOM
+2024-06-27 22:04:28 info: 	Clicking on Analyze Button
+2024-06-27 22:04:28 info: 	##############################################################################
+2024-06-27 22:04:28 info: 	SCENARIO: VALID INPUT WITH MULTIPLE POINTS: 16 - PASSED
+2024-06-27 22:04:28 info: 	##############################################################################
+2024-06-27 22:24:31 info: 	##############################################################################
+2024-06-27 22:24:31 info: 	SCENARIO: VALID INPUT WITH MULTIPLE POINTS: 16 - STARTED
+2024-06-27 22:24:31 info: 	##############################################################################
+2024-06-27 22:24:31 info: 	Navigate to Home page
+2024-06-27 22:24:32 info: 	Entering Coordinate Points as 0.0,1.0 2.0,3.0 4.0,5.0
+2024-06-27 22:24:32 info: 	Getting text content of Message
+2024-06-27 22:24:32 info: 	Waiting for Message to be visible in DOM
+2024-06-27 22:24:32 info: 	Clicking on Analyze Button
+2024-06-27 22:24:32 error: 	Valid input with multiple points: 16 - FAILED
+Error: expect(received).toMatch(expected)
+
+Matcher error: received value must be a string
+
+Received has type:  object
+Received has value: {"description": "Closest Point A", "locator": {"_frame": {"_guid": "frame@5e27252f239cf193ede1b1f6cd760cd0", "_type": "Frame"}, "_selector": "//table[contains(@class,'table table-striped')]/tbody[1]/tr[1]/td[2]"}, "page": {"_guid": "page@03a5bc7dc30d47b347c078e9551dcd51", "_type": "Page"}, "selector": "//table[contains(@class,'table table-striped')]/tbody[1]/tr[1]/td[2]"}
+    at Proxy.<anonymous> (C:\Users\shyam\CoordinatePointsTool\node_modules\playwright\lib\matchers\expect.js:194:37)
+    at CommonPage.<anonymous> (C:\Users\shyam\CoordinatePointsTool\src\web\pages\CommonPage.ts:30:83)
+    at C:\Users\shyam\CoordinatePointsTool\src\web\pages\CommonPage.ts:8:71
+    at __awaiter (C:\Users\shyam\CoordinatePointsTool\src\web\pages\CommonPage.ts:4:12)
+    at CommonPage.verifyCharacteristics (C:\Users\shyam\CoordinatePointsTool\src\web\pages\CommonPage.ts:44:16)
+    at World.<anonymous> (C:\Users\shyam\CoordinatePointsTool\src\web\steps\coordinatePointsSteps.ts:22:34)
+    at C:\Users\shyam\CoordinatePointsTool\src\web\steps\coordinatePointsSteps.ts:8:71
+2024-06-27 22:24:32 info: 	##############################################################################
+2024-06-27 22:24:32 info: 	SCENARIO: VALID INPUT WITH MULTIPLE POINTS: 16 - FAILED
+2024-06-27 22:24:32 info: 	##############################################################################
+2024-06-27 22:27:06 info: 	##############################################################################
+2024-06-27 22:27:06 info: 	SCENARIO: VALID INPUT WITH MULTIPLE POINTS: 16 - STARTED
+2024-06-27 22:27:06 info: 	##############################################################################
+2024-06-27 22:27:06 info: 	Navigate to Home page
+2024-06-27 22:27:07 info: 	Entering Coordinate Points as 0.0,1.0 2.0,3.0 4.0,5.0
+2024-06-27 22:27:07 info: 	Getting text content of Message
+2024-06-27 22:27:07 info: 	Waiting for Message to be visible in DOM
+2024-06-27 22:27:07 info: 	Clicking on Analyze Button
+2024-06-27 22:27:07 info: 	Getting text content of Closest Point A
+2024-06-27 22:27:07 info: 	Waiting for Closest Point A to be visible in DOM
+2024-06-27 22:27:07 error: 	Valid input with multiple points: 16 - FAILED
+Error: expect(received).toMatch(expected)
+
+Matcher error: received value must be a string
+
+Received has type:  object
+Received has value: {Symbol(async_id_symbol): 2640, Symbol(trigger_async_id_symbol): 2631, Symbol(kResourceStore): undefined, Symbol(kResourceStore): undefined, Symbol(kResourceStore): {"world": {"attach": [Function bound create], "context": {"_guid": "browser-context@99eff190a732f2f445d980ecf86e452c", "_type": "BrowserContext"}, "log": [Function bound log], "page": {"_guid": "page@be7c7d6be343b9701ed8c52a84062a6e", "_type": "Page"}, "parameters": {}, "web": {"alertAction": {"page": {"_guid": "page@be7c7d6be343b9701ed8c52a84062a6e", "_type": "Page"}}, "editBoxAction": {"description": "Coordinate Points", "locator": {"_frame": {"_guid": "frame@cecc23b4e26f73214239d36751900902", "_type": "Frame"}, "_selector": "input[name='input']"}, "page": {"_guid": "page@be7c7d6be343b9701ed8c52a84062a6e", "_type": "Page"}, "selector": "input[name='input']"}, "elementAction": {"description": "Closest Point A", "locator": {"_frame": {"_guid": "frame@cecc23b4e26f73214239d36751900902", "_type": "Frame"}, "_selector": "//table[contains(@class,'table table-striped')]/tbody[1]/tr[1]/td[2]"}, "page": {"_guid": "page@be7c7d6be343b9701ed8c52a84062a6e", "_type": "Page"}, "selector": "//table[contains(@class,'table table-striped')]/tbody[1]/tr[1]/td[2]"}, "page": {"_guid": "page@be7c7d6be343b9701ed8c52a84062a6e", "_type": "Page"}}}}}
+    at Proxy.<anonymous> (C:\Users\shyam\CoordinatePointsTool\node_modules\playwright\lib\matchers\expect.js:194:37)
+    at CommonPage.<anonymous> (C:\Users\shyam\CoordinatePointsTool\src\web\pages\CommonPage.ts:30:100)
+    at C:\Users\shyam\CoordinatePointsTool\src\web\pages\CommonPage.ts:8:71
+    at __awaiter (C:\Users\shyam\CoordinatePointsTool\src\web\pages\CommonPage.ts:4:12)
+    at CommonPage.verifyCharacteristics (C:\Users\shyam\CoordinatePointsTool\src\web\pages\CommonPage.ts:44:16)
+    at World.<anonymous> (C:\Users\shyam\CoordinatePointsTool\src\web\steps\coordinatePointsSteps.ts:22:34)
+    at C:\Users\shyam\CoordinatePointsTool\src\web\steps\coordinatePointsSteps.ts:8:71
+2024-06-27 22:27:07 info: 	##############################################################################
+2024-06-27 22:27:07 info: 	SCENARIO: VALID INPUT WITH MULTIPLE POINTS: 16 - FAILED
+2024-06-27 22:27:07 info: 	##############################################################################
+2024-06-27 22:29:20 info: 	##############################################################################
+2024-06-27 22:29:20 info: 	SCENARIO: VALID INPUT WITH MULTIPLE POINTS: 16 - STARTED
+2024-06-27 22:29:20 info: 	##############################################################################
+2024-06-27 22:29:20 info: 	Navigate to Home page
+2024-06-27 22:29:20 info: 	Entering Coordinate Points as 0.0,1.0 2.0,3.0 4.0,5.0
+2024-06-27 22:29:21 info: 	Getting text content of Message
+2024-06-27 22:29:21 info: 	Waiting for Message to be visible in DOM
+2024-06-27 22:29:21 info: 	Clicking on Analyze Button
+2024-06-27 22:29:21 info: 	Getting text content of Closest Point A
+2024-06-27 22:29:21 info: 	Waiting for Closest Point A to be visible in DOM
+2024-06-27 22:29:21 info: 	##############################################################################
+2024-06-27 22:29:21 info: 	SCENARIO: VALID INPUT WITH MULTIPLE POINTS: 16 - UNDEFINED
+2024-06-27 22:29:21 info: 	##############################################################################
+2024-06-27 22:46:49 info: 	##############################################################################
+2024-06-27 22:46:49 info: 	SCENARIO: VALID INPUT WITH MULTIPLE POINTS: 16 - STARTED
+2024-06-27 22:46:49 info: 	##############################################################################
+2024-06-27 22:46:50 info: 	Navigate to Home page
+2024-06-27 22:46:50 info: 	Entering Coordinate Points as 0.0,1.0 2.0,3.0 4.0,5.0
+2024-06-27 22:46:50 info: 	Getting text content of Message
+2024-06-27 22:46:50 info: 	Waiting for Message to be visible in DOM
+2024-06-27 22:46:50 info: 	Clicking on Analyze Button
+2024-06-27 22:46:50 info: 	Getting text content of Closest Point A
+2024-06-27 22:46:50 info: 	Waiting for Closest Point A to be visible in DOM
+2024-06-27 22:46:50 info: 	Getting text content of Closest Point B
+2024-06-27 22:46:50 info: 	Waiting for Closest Point B to be visible in DOM
+2024-06-27 22:46:51 error: 	Valid input with multiple points: 16 - FAILED
+Error: expect(received).toMatch(expected)
+
+Expected substring: "0.0,1.0"
+Received string:    "2.0,3.0"
+    at Proxy.<anonymous> (C:\Users\shyam\CoordinatePointsTool\node_modules\playwright\lib\matchers\expect.js:194:37)
+    at CommonPage.<anonymous> (C:\Users\shyam\CoordinatePointsTool\src\web\pages\CommonPage.ts:36:24)
+    at fulfilled (C:\Users\shyam\CoordinatePointsTool\src\web\pages\CommonPage.ts:5:58)
+2024-06-27 22:46:51 info: 	##############################################################################
+2024-06-27 22:46:51 info: 	SCENARIO: VALID INPUT WITH MULTIPLE POINTS: 16 - FAILED
+2024-06-27 22:46:51 info: 	##############################################################################
+2024-06-27 22:48:08 info: 	##############################################################################
+2024-06-27 22:48:08 info: 	SCENARIO: VALID INPUT WITH MULTIPLE POINTS: 16 - STARTED
+2024-06-27 22:48:08 info: 	##############################################################################
+2024-06-27 22:48:09 info: 	Navigate to Home page
+2024-06-27 22:48:09 info: 	Entering Coordinate Points as 0.0,1.0 2.0,3.0 4.0,5.0
+2024-06-27 22:48:09 info: 	Getting text content of Message
+2024-06-27 22:48:09 info: 	Waiting for Message to be visible in DOM
+2024-06-27 22:48:09 info: 	Clicking on Analyze Button
+2024-06-27 22:48:09 info: 	Getting text content of Closest Point A
+2024-06-27 22:48:09 info: 	Waiting for Closest Point A to be visible in DOM
+2024-06-27 22:48:09 info: 	Getting text content of Closest Point B
+2024-06-27 22:48:09 info: 	Waiting for Closest Point B to be visible in DOM
+2024-06-27 22:48:09 info: 	Getting text content of Closest Distance
+2024-06-27 22:48:09 info: 	Waiting for Closest Distance to be visible in DOM
+2024-06-27 22:48:09 info: 	Getting text content of Furthest Point A
+2024-06-27 22:48:09 info: 	Waiting for Furthest Point A to be visible in DOM
+2024-06-27 22:51:13 info: 	##############################################################################
+2024-06-27 22:51:13 info: 	SCENARIO: VALID INPUT WITH MULTIPLE POINTS: 16 - STARTED
+2024-06-27 22:51:13 info: 	##############################################################################
+2024-06-27 22:51:14 info: 	Navigate to Home page
+2024-06-27 22:51:14 info: 	Entering Coordinate Points as 0.0,1.0 2.0,3.0 4.0,5.0
+2024-06-27 22:51:14 info: 	Getting text content of Message
+2024-06-27 22:51:14 info: 	Waiting for Message to be visible in DOM
+2024-06-27 22:51:14 info: 	Clicking on Analyze Button
+2024-06-27 22:51:14 info: 	Getting text content of Closest Point A
+2024-06-27 22:51:14 info: 	Waiting for Closest Point A to be visible in DOM
+2024-06-27 22:51:14 info: 	Getting text content of Closest Point B
+2024-06-27 22:51:14 info: 	Waiting for Closest Point B to be visible in DOM
+2024-06-27 22:51:14 info: 	Getting text content of Closest Distance
+2024-06-27 22:51:14 info: 	Waiting for Closest Distance to be visible in DOM
+2024-06-27 22:51:14 info: 	Getting text content of Furthest Point A
+2024-06-27 22:51:14 info: 	Waiting for Furthest Point A to be visible in DOM
+2024-06-27 22:51:14 info: 	Getting text content of Furthest Point B
+2024-06-27 22:51:14 info: 	Waiting for Furthest Point B to be visible in DOM
+2024-06-27 22:51:14 info: 	Getting text content of Furthest Distance
+2024-06-27 22:51:14 info: 	Waiting for Furthest Distance to be visible in DOM
+2024-06-27 22:51:14 info: 	##############################################################################
+2024-06-27 22:51:14 info: 	SCENARIO: VALID INPUT WITH MULTIPLE POINTS: 16 - UNDEFINED
+2024-06-27 22:51:14 info: 	##############################################################################
+2024-06-27 22:52:09 info: 	##############################################################################
+2024-06-27 22:52:09 info: 	SCENARIO: VALID INPUT WITH MULTIPLE POINTS: 16 - STARTED
+2024-06-27 22:52:09 info: 	##############################################################################
+2024-06-27 22:52:09 info: 	Navigate to Home page
+2024-06-27 22:52:10 info: 	Entering Coordinate Points as 0.0,1.0 2.0,3.0 4.0,5.0
+2024-06-27 22:52:10 info: 	Getting text content of Message
+2024-06-27 22:52:10 info: 	Waiting for Message to be visible in DOM
+2024-06-27 22:52:10 info: 	Clicking on Analyze Button
+2024-06-27 22:52:10 info: 	Getting text content of Closest Point A
+2024-06-27 22:52:10 info: 	Waiting for Closest Point A to be visible in DOM
+2024-06-27 22:52:10 info: 	Getting text content of Closest Point B
+2024-06-27 22:52:10 info: 	Waiting for Closest Point B to be visible in DOM
+2024-06-27 22:52:10 info: 	Getting text content of Closest Distance
+2024-06-27 22:52:10 info: 	Waiting for Closest Distance to be visible in DOM
+2024-06-27 22:52:10 info: 	Getting text content of Furthest Point A
+2024-06-27 22:52:10 info: 	Waiting for Furthest Point A to be visible in DOM
+2024-06-27 22:52:10 info: 	Getting text content of Furthest Point B
+2024-06-27 22:52:10 info: 	Waiting for Furthest Point B to be visible in DOM
+2024-06-27 22:52:10 info: 	Getting text content of Furthest Distance
+2024-06-27 22:52:10 info: 	Waiting for Furthest Distance to be visible in DOM
+2024-06-27 22:52:10 info: 	Getting text content of Average Distance
+2024-06-27 22:52:10 info: 	Waiting for Average Distance to be visible in DOM
+2024-06-27 22:52:10 error: 	Valid input with multiple points: 16 - FAILED
+Error: expect(received).toMatch(expected)
+
+Expected substring: "4.24"
+Received string:    "3.77"
+    at Proxy.<anonymous> (C:\Users\shyam\CoordinatePointsTool\node_modules\playwright\lib\matchers\expect.js:194:37)
+    at CommonPage.<anonymous> (C:\Users\shyam\CoordinatePointsTool\src\web\pages\CommonPage.ts:50:29)
+    at fulfilled (C:\Users\shyam\CoordinatePointsTool\src\web\pages\CommonPage.ts:5:58)
+2024-06-27 22:52:10 info: 	##############################################################################
+2024-06-27 22:52:10 info: 	SCENARIO: VALID INPUT WITH MULTIPLE POINTS: 16 - FAILED
+2024-06-27 22:52:10 info: 	##############################################################################
+2024-06-27 22:52:54 info: 	##############################################################################
+2024-06-27 22:52:54 info: 	SCENARIO: VALID INPUT WITH MULTIPLE POINTS: 16 - STARTED
+2024-06-27 22:52:54 info: 	##############################################################################
+2024-06-27 22:52:54 info: 	Navigate to Home page
+2024-06-27 22:52:54 info: 	Entering Coordinate Points as 0.0,1.0 2.0,3.0 4.0,5.0
+2024-06-27 22:52:54 info: 	Getting text content of Message
+2024-06-27 22:52:54 info: 	Waiting for Message to be visible in DOM
+2024-06-27 22:52:54 info: 	Clicking on Analyze Button
+2024-06-27 22:52:55 info: 	Getting text content of Closest Point A
+2024-06-27 22:52:55 info: 	Waiting for Closest Point A to be visible in DOM
+2024-06-27 22:52:55 info: 	Getting text content of Closest Point B
+2024-06-27 22:52:55 info: 	Waiting for Closest Point B to be visible in DOM
+2024-06-27 22:52:55 info: 	Getting text content of Closest Distance
+2024-06-27 22:52:55 info: 	Waiting for Closest Distance to be visible in DOM
+2024-06-27 22:52:55 info: 	Getting text content of Furthest Point A
+2024-06-27 22:52:55 info: 	Waiting for Furthest Point A to be visible in DOM
+2024-06-27 22:52:55 info: 	Getting text content of Furthest Point B
+2024-06-27 22:52:55 info: 	Waiting for Furthest Point B to be visible in DOM
+2024-06-27 22:52:55 info: 	Getting text content of Furthest Distance
+2024-06-27 22:52:55 info: 	Waiting for Furthest Distance to be visible in DOM
+2024-06-27 22:52:55 error: 	Valid input with multiple points: 16 - FAILED
+Error: expect(received).toMatch(expected)
+
+Expected substring: "4.24"
+Received string:    "5.66"
+    at Proxy.<anonymous> (C:\Users\shyam\CoordinatePointsTool\node_modules\playwright\lib\matchers\expect.js:194:37)
+    at CommonPage.<anonymous> (C:\Users\shyam\CoordinatePointsTool\src\web\pages\CommonPage.ts:46:35)
+    at fulfilled (C:\Users\shyam\CoordinatePointsTool\src\web\pages\CommonPage.ts:5:58)
+2024-06-27 22:52:55 info: 	##############################################################################
+2024-06-27 22:52:55 info: 	SCENARIO: VALID INPUT WITH MULTIPLE POINTS: 16 - FAILED
+2024-06-27 22:52:55 info: 	##############################################################################
+2024-06-27 22:53:56 info: 	##############################################################################
+2024-06-27 22:53:56 info: 	SCENARIO: VALID INPUT WITH MULTIPLE POINTS: 16 - STARTED
+2024-06-27 22:53:56 info: 	##############################################################################
+2024-06-27 22:53:56 info: 	Navigate to Home page
+2024-06-27 22:53:57 info: 	Entering Coordinate Points as 0.0,1.0 2.0,3.0 4.0,5.0
+2024-06-27 22:53:57 info: 	Getting text content of Message
+2024-06-27 22:53:57 info: 	Waiting for Message to be visible in DOM
+2024-06-27 22:53:57 info: 	Clicking on Analyze Button
+2024-06-27 22:53:57 info: 	Getting text content of Closest Point A
+2024-06-27 22:53:57 info: 	Waiting for Closest Point A to be visible in DOM
+2024-06-27 22:53:57 info: 	Getting text content of Closest Point B
+2024-06-27 22:53:57 info: 	Waiting for Closest Point B to be visible in DOM
+2024-06-27 22:53:57 info: 	Getting text content of Closest Distance
+2024-06-27 22:53:57 info: 	Waiting for Closest Distance to be visible in DOM
+2024-06-27 22:53:57 info: 	Getting text content of Furthest Point A
+2024-06-27 22:53:57 info: 	Waiting for Furthest Point A to be visible in DOM
+2024-06-27 22:53:57 info: 	Getting text content of Furthest Point B
+2024-06-27 22:53:57 info: 	Waiting for Furthest Point B to be visible in DOM
+2024-06-27 22:53:57 info: 	Getting text content of Furthest Distance
+2024-06-27 22:53:57 info: 	Waiting for Furthest Distance to be visible in DOM
+2024-06-27 22:53:57 info: 	Getting text content of Average Distance
+2024-06-27 22:53:57 info: 	Waiting for Average Distance to be visible in DOM
+2024-06-27 22:53:57 info: 	##############################################################################
+2024-06-27 22:53:57 info: 	SCENARIO: VALID INPUT WITH MULTIPLE POINTS: 16 - PASSED
+2024-06-27 22:53:57 info: 	##############################################################################
+2024-06-27 22:59:42 info: 	##############################################################################
+2024-06-27 22:59:42 info: 	SCENARIO: VALID INPUT WITH MULTIPLE POINTS: 16 - STARTED
+2024-06-27 22:59:42 info: 	##############################################################################
+2024-06-27 22:59:42 info: 	Navigate to Home page
+2024-06-27 22:59:42 info: 	##############################################################################
+2024-06-27 22:59:42 info: 	SCENARIO: INVALID INPUT FORMAT: 19 - STARTED
+2024-06-27 22:59:42 info: 	##############################################################################
+2024-06-27 22:59:43 info: 	Entering Coordinate Points as 0.0,1.0 2.0,3.0 4.0,5.0
+2024-06-27 22:59:43 info: 	Getting text content of Message
+2024-06-27 22:59:43 info: 	Waiting for Message to be visible in DOM
+2024-06-27 22:59:43 info: 	Navigate to Home page
+2024-06-27 22:59:43 error: 	Valid input with multiple points: 16 - FAILED
+Error: expect(received).toContain(expected) // indexOf
+
+Expected substring: "Valid Input"
+Received string:    "Valid input"
+    at Proxy.<anonymous> (C:\Users\shyam\CoordinatePointsTool\node_modules\playwright\lib\matchers\expect.js:194:37)
+    at CommonPage.<anonymous> (C:\Users\shyam\CoordinatePointsTool\src\web\pages\CommonPage.ts:59:33)
+    at fulfilled (C:\Users\shyam\CoordinatePointsTool\src\web\pages\CommonPage.ts:5:58)
+2024-06-27 22:59:43 info: 	##############################################################################
+2024-06-27 22:59:43 info: 	SCENARIO: VALID INPUT WITH MULTIPLE POINTS: 16 - FAILED
+2024-06-27 22:59:43 info: 	##############################################################################
+2024-06-27 22:59:43 info: 	##############################################################################
+2024-06-27 22:59:43 info: 	SCENARIO: MORE THAN 10 PAIRS: 24 - STARTED
+2024-06-27 22:59:43 info: 	##############################################################################
+2024-06-27 22:59:43 info: 	Navigate to Home page
+2024-06-27 22:59:43 info: 	Entering Coordinate Points as 0.0,0.0 1.0,1.0 invalid 2.0,2.0
+2024-06-27 22:59:43 info: 	Entering Coordinate Points as 0.0,0.0 1.0,1.0 2.0,2.0 3.0,3.0 4.0,4.0 5.0,5.0 6.0,6.0 7.0,7.0 8.0,8.0 9.0,9.0 10.0,10.0
+2024-06-27 22:59:44 info: 	Clicking on Analyze Button
+2024-06-27 22:59:44 info: 	Clicking on Analyze Button
+2024-06-27 22:59:44 info: 	##############################################################################
+2024-06-27 22:59:44 info: 	SCENARIO: MORE THAN 10 PAIRS: 24 - UNDEFINED
+2024-06-27 22:59:44 info: 	##############################################################################
+2024-06-27 23:00:14 error: 	Invalid input format: 19 - FAILED
+locator.click: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator('button[type=\'button\']').first()
+  -   locator resolved to <button disabled type="button" class="mb-3 btn btn-primary">Analyze</button>
+  - attempting click action
+  -   waiting for element to be visible, enabled and stable
+  -   element is not enabled
+  - retrying click action, attempt #1
+  -   waiting for element to be visible, enabled and stable
+  -   element is not enabled
+  - retrying click action, attempt #2
+  -   waiting 20ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is not enabled
+  - retrying click action, attempt #3
+  -   waiting 100ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is not enabled
+  - retrying click action, attempt #4
+  -   waiting 100ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is not enabled
+  - retrying click action, attempt #5
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is not enabled
+  - retrying click action, attempt #6
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is not enabled
+  - retrying click action, attempt #7
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is not enabled
+  - retrying click action, attempt #8
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is not enabled
+  - retrying click action, attempt #9
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is not enabled
+  - retrying click action, attempt #10
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is not enabled
+  - retrying click action, attempt #11
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is not enabled
+  - retrying click action, attempt #12
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is not enabled
+  - retrying click action, attempt #13
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is not enabled
+  - retrying click action, attempt #14
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is not enabled
+  - retrying click action, attempt #15
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is not enabled
+  - retrying click action, attempt #16
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is not enabled
+  - retrying click action, attempt #17
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is not enabled
+  - retrying click action, attempt #18
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is not enabled
+  - retrying click action, attempt #19
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is not enabled
+  - retrying click action, attempt #20
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is not enabled
+  - retrying click action, attempt #21
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is not enabled
+  - retrying click action, attempt #22
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is not enabled
+  - retrying click action, attempt #23
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is not enabled
+  - retrying click action, attempt #24
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is not enabled
+  - retrying click action, attempt #25
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is not enabled
+  - retrying click action, attempt #26
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is not enabled
+  - retrying click action, attempt #27
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is not enabled
+  - retrying click action, attempt #28
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is not enabled
+  - retrying click action, attempt #29
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is not enabled
+  - retrying click action, attempt #30
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is not enabled
+  - retrying click action, attempt #31
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is not enabled
+  - retrying click action, attempt #32
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is not enabled
+  - retrying click action, attempt #33
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is not enabled
+  - retrying click action, attempt #34
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is not enabled
+  - retrying click action, attempt #35
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is not enabled
+  - retrying click action, attempt #36
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is not enabled
+  - retrying click action, attempt #37
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is not enabled
+  - retrying click action, attempt #38
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is not enabled
+  - retrying click action, attempt #39
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is not enabled
+  - retrying click action, attempt #40
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is not enabled
+  - retrying click action, attempt #41
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is not enabled
+  - retrying click action, attempt #42
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is not enabled
+  - retrying click action, attempt #43
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is not enabled
+  - retrying click action, attempt #44
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is not enabled
+  - retrying click action, attempt #45
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is not enabled
+  - retrying click action, attempt #46
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is not enabled
+  - retrying click action, attempt #47
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is not enabled
+  - retrying click action, attempt #48
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is not enabled
+  - retrying click action, attempt #49
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is not enabled
+  - retrying click action, attempt #50
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is not enabled
+  - retrying click action, attempt #51
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is not enabled
+  - retrying click action, attempt #52
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is not enabled
+  - retrying click action, attempt #53
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is not enabled
+  - retrying click action, attempt #54
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is not enabled
+  - retrying click action, attempt #55
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is not enabled
+  - retrying click action, attempt #56
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is not enabled
+  - retrying click action, attempt #57
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is not enabled
+  - retrying click action, attempt #58
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is not enabled
+  - retrying click action, attempt #59
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is not enabled
+  - retrying click action, attempt #60
+  -   waiting 500ms
+
+    at UIElementActions.<anonymous> (C:\Users\shyam\CoordinatePointsTool\src\support\playwright\actions\UIElementActions.ts:59:29)
+    at C:\Users\shyam\CoordinatePointsTool\src\support\playwright\actions\UIElementActions.ts:8:71
+    at __awaiter (C:\Users\shyam\CoordinatePointsTool\src\support\playwright\actions\UIElementActions.ts:4:12)
+    at UIElementActions.click (C:\Users\shyam\CoordinatePointsTool\src\support\playwright\actions\UIElementActions.ts:63:16)
+    at CommonPage.<anonymous> (C:\Users\shyam\CoordinatePointsTool\src\web\pages\CommonPage.ts:29:79)
+    at C:\Users\shyam\CoordinatePointsTool\src\web\pages\CommonPage.ts:8:71
+    at __awaiter (C:\Users\shyam\CoordinatePointsTool\src\web\pages\CommonPage.ts:4:12)
+    at CommonPage.clickOnAnalyzeButton (C:\Users\shyam\CoordinatePointsTool\src\web\pages\CommonPage.ts:42:16)
+    at World.<anonymous> (C:\Users\shyam\CoordinatePointsTool\src\web\steps\coordinatePointsSteps.ts:18:34)
+    at C:\Users\shyam\CoordinatePointsTool\src\web\steps\coordinatePointsSteps.ts:8:71
+    at __awaiter (C:\Users\shyam\CoordinatePointsTool\src\web\steps\coordinatePointsSteps.ts:4:12)
+    at World.<anonymous> (C:\Users\shyam\CoordinatePointsTool\src\web\steps\coordinatePointsSteps.ts:34:12)
+2024-06-27 23:00:14 info: 	##############################################################################
+2024-06-27 23:00:14 info: 	SCENARIO: INVALID INPUT FORMAT: 19 - FAILED
+2024-06-27 23:00:14 info: 	##############################################################################
+2024-06-27 23:02:08 info: 	##############################################################################
+2024-06-27 23:02:08 info: 	SCENARIO: VALID INPUT WITH MULTIPLE POINTS: 16 - STARTED
+2024-06-27 23:02:08 info: 	##############################################################################
+2024-06-27 23:02:08 info: 	Navigate to Home page
+2024-06-27 23:02:09 info: 	##############################################################################
+2024-06-27 23:02:09 info: 	SCENARIO: INVALID INPUT FORMAT: 19 - STARTED
+2024-06-27 23:02:09 info: 	##############################################################################
+2024-06-27 23:02:09 info: 	Entering Coordinate Points as 0.0,1.0 2.0,3.0 4.0,5.0
+2024-06-27 23:02:09 info: 	Getting text content of Message
+2024-06-27 23:02:09 info: 	Navigate to Home page
+2024-06-27 23:02:09 info: 	Waiting for Message to be visible in DOM
+2024-06-27 23:02:09 error: 	Valid input with multiple points: 16 - FAILED
+Error: expect(received).toContain(expected) // indexOf
+
+Expected substring: "Valid Input"
+Received string:    "Valid input"
+    at Proxy.<anonymous> (C:\Users\shyam\CoordinatePointsTool\node_modules\playwright\lib\matchers\expect.js:194:37)
+    at CommonPage.<anonymous> (C:\Users\shyam\CoordinatePointsTool\src\web\pages\CommonPage.ts:59:33)
+    at fulfilled (C:\Users\shyam\CoordinatePointsTool\src\web\pages\CommonPage.ts:5:58)
+2024-06-27 23:02:09 info: 	Entering Coordinate Points as 0.0,0.0 1.0,1.0 invalid 2.0,2.0
+2024-06-27 23:02:09 info: 	##############################################################################
+2024-06-27 23:02:09 info: 	SCENARIO: VALID INPUT WITH MULTIPLE POINTS: 16 - FAILED
+2024-06-27 23:02:09 info: 	##############################################################################
+2024-06-27 23:02:09 info: 	##############################################################################
+2024-06-27 23:02:09 info: 	SCENARIO: MORE THAN 10 PAIRS: 24 - STARTED
+2024-06-27 23:02:09 info: 	##############################################################################
+2024-06-27 23:02:09 info: 	Clicking on Analyze Button
+2024-06-27 23:02:09 info: 	Navigate to Home page
+2024-06-27 23:02:10 info: 	Entering Coordinate Points as 0.0,0.0 1.0,1.0 2.0,2.0 3.0,3.0 4.0,4.0 5.0,5.0 6.0,6.0 7.0,7.0 8.0,8.0 9.0,9.0 10.0,10.0
+2024-06-27 23:02:10 info: 	Clicking on Analyze Button
+2024-06-27 23:02:10 info: 	Getting text content of Message
+2024-06-27 23:02:10 info: 	Waiting for Message to be visible in DOM
+2024-06-27 23:02:10 error: 	More than 10 pairs: 24 - FAILED
+Error: expect(received).toContain(expected) // indexOf
+
+Expected substring: "Too many coordinate points. Maximum allowed is 10 pairs"
+Received string:    "Valid input"
+    at Proxy.<anonymous> (C:\Users\shyam\CoordinatePointsTool\node_modules\playwright\lib\matchers\expect.js:194:37)
+    at CommonPage.<anonymous> (C:\Users\shyam\CoordinatePointsTool\src\web\pages\CommonPage.ts:59:33)
+    at fulfilled (C:\Users\shyam\CoordinatePointsTool\src\web\pages\CommonPage.ts:5:58)
+2024-06-27 23:02:10 info: 	##############################################################################
+2024-06-27 23:02:10 info: 	SCENARIO: MORE THAN 10 PAIRS: 24 - FAILED
+2024-06-27 23:02:10 info: 	##############################################################################
+2024-06-27 23:02:40 error: 	Invalid input format: 19 - FAILED
+locator.click: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator('button[type=\'button\']').first()
+  -   locator resolved to <button disabled type="button" class="mb-3 btn btn-primary">Analyze</button>
+  - attempting click action
+  -   waiting for element to be visible, enabled and stable
+  -   element is not enabled
+  - retrying click action, attempt #1
+  -   waiting for element to be visible, enabled and stable
+  -   element is not enabled
+  - retrying click action, attempt #2
+  -   waiting 20ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is not enabled
+  - retrying click action, attempt #3
+  -   waiting 100ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is not enabled
+  - retrying click action, attempt #4
+  -   waiting 100ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is not enabled
+  - retrying click action, attempt #5
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is not enabled
+  - retrying click action, attempt #6
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is not enabled
+  - retrying click action, attempt #7
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is not enabled
+  - retrying click action, attempt #8
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is not enabled
+  - retrying click action, attempt #9
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is not enabled
+  - retrying click action, attempt #10
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is not enabled
+  - retrying click action, attempt #11
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is not enabled
+  - retrying click action, attempt #12
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is not enabled
+  - retrying click action, attempt #13
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is not enabled
+  - retrying click action, attempt #14
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is not enabled
+  - retrying click action, attempt #15
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is not enabled
+  - retrying click action, attempt #16
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is not enabled
+  - retrying click action, attempt #17
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is not enabled
+  - retrying click action, attempt #18
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is not enabled
+  - retrying click action, attempt #19
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is not enabled
+  - retrying click action, attempt #20
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is not enabled
+  - retrying click action, attempt #21
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is not enabled
+  - retrying click action, attempt #22
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is not enabled
+  - retrying click action, attempt #23
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is not enabled
+  - retrying click action, attempt #24
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is not enabled
+  - retrying click action, attempt #25
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is not enabled
+  - retrying click action, attempt #26
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is not enabled
+  - retrying click action, attempt #27
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is not enabled
+  - retrying click action, attempt #28
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is not enabled
+  - retrying click action, attempt #29
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is not enabled
+  - retrying click action, attempt #30
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is not enabled
+  - retrying click action, attempt #31
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is not enabled
+  - retrying click action, attempt #32
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is not enabled
+  - retrying click action, attempt #33
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is not enabled
+  - retrying click action, attempt #34
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is not enabled
+  - retrying click action, attempt #35
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is not enabled
+  - retrying click action, attempt #36
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is not enabled
+  - retrying click action, attempt #37
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is not enabled
+  - retrying click action, attempt #38
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is not enabled
+  - retrying click action, attempt #39
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is not enabled
+  - retrying click action, attempt #40
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is not enabled
+  - retrying click action, attempt #41
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is not enabled
+  - retrying click action, attempt #42
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is not enabled
+  - retrying click action, attempt #43
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is not enabled
+  - retrying click action, attempt #44
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is not enabled
+  - retrying click action, attempt #45
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is not enabled
+  - retrying click action, attempt #46
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is not enabled
+  - retrying click action, attempt #47
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is not enabled
+  - retrying click action, attempt #48
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is not enabled
+  - retrying click action, attempt #49
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is not enabled
+  - retrying click action, attempt #50
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is not enabled
+  - retrying click action, attempt #51
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is not enabled
+  - retrying click action, attempt #52
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is not enabled
+  - retrying click action, attempt #53
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is not enabled
+  - retrying click action, attempt #54
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is not enabled
+  - retrying click action, attempt #55
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is not enabled
+  - retrying click action, attempt #56
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is not enabled
+  - retrying click action, attempt #57
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is not enabled
+  - retrying click action, attempt #58
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is not enabled
+  - retrying click action, attempt #59
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is not enabled
+  - retrying click action, attempt #60
+  -   waiting 500ms
+
+    at UIElementActions.<anonymous> (C:\Users\shyam\CoordinatePointsTool\src\support\playwright\actions\UIElementActions.ts:59:29)
+    at C:\Users\shyam\CoordinatePointsTool\src\support\playwright\actions\UIElementActions.ts:8:71
+    at __awaiter (C:\Users\shyam\CoordinatePointsTool\src\support\playwright\actions\UIElementActions.ts:4:12)
+    at UIElementActions.click (C:\Users\shyam\CoordinatePointsTool\src\support\playwright\actions\UIElementActions.ts:63:16)
+    at CommonPage.<anonymous> (C:\Users\shyam\CoordinatePointsTool\src\web\pages\CommonPage.ts:29:79)
+    at C:\Users\shyam\CoordinatePointsTool\src\web\pages\CommonPage.ts:8:71
+    at __awaiter (C:\Users\shyam\CoordinatePointsTool\src\web\pages\CommonPage.ts:4:12)
+    at CommonPage.clickOnAnalyzeButton (C:\Users\shyam\CoordinatePointsTool\src\web\pages\CommonPage.ts:42:16)
+    at World.<anonymous> (C:\Users\shyam\CoordinatePointsTool\src\web\steps\coordinatePointsSteps.ts:18:34)
+    at C:\Users\shyam\CoordinatePointsTool\src\web\steps\coordinatePointsSteps.ts:8:71
+    at __awaiter (C:\Users\shyam\CoordinatePointsTool\src\web\steps\coordinatePointsSteps.ts:4:12)
+    at World.<anonymous> (C:\Users\shyam\CoordinatePointsTool\src\web\steps\coordinatePointsSteps.ts:34:12)
+2024-06-27 23:02:40 info: 	##############################################################################
+2024-06-27 23:02:40 info: 	SCENARIO: INVALID INPUT FORMAT: 19 - FAILED
+2024-06-27 23:02:40 info: 	##############################################################################
+2024-06-27 23:04:07 info: 	##############################################################################
+2024-06-27 23:04:07 info: 	SCENARIO: VALID INPUT WITH MULTIPLE POINTS: 16 - STARTED
+2024-06-27 23:04:07 info: 	##############################################################################
+2024-06-27 23:04:07 info: 	Navigate to Home page
+2024-06-27 23:04:08 info: 	Entering Coordinate Points as 0.0,1.0 2.0,3.0 4.0,5.0
+2024-06-27 23:04:08 info: 	##############################################################################
+2024-06-27 23:04:08 info: 	SCENARIO: INVALID INPUT FORMAT: 19 - STARTED
+2024-06-27 23:04:08 info: 	##############################################################################
+2024-06-27 23:04:08 info: 	Getting text content of Message
+2024-06-27 23:04:08 info: 	Waiting for Message to be visible in DOM
+2024-06-27 23:04:08 info: 	Clicking on Analyze Button
+2024-06-27 23:04:08 info: 	Getting text content of Closest Point A
+2024-06-27 23:04:08 info: 	Waiting for Closest Point A to be visible in DOM
+2024-06-27 23:04:08 info: 	Getting text content of Closest Point B
+2024-06-27 23:04:08 info: 	Waiting for Closest Point B to be visible in DOM
+2024-06-27 23:04:08 info: 	Navigate to Home page
+2024-06-27 23:04:08 info: 	Getting text content of Closest Distance
+2024-06-27 23:04:08 info: 	Waiting for Closest Distance to be visible in DOM
+2024-06-27 23:04:08 info: 	Getting text content of Furthest Point A
+2024-06-27 23:04:08 info: 	Waiting for Furthest Point A to be visible in DOM
+2024-06-27 23:04:08 info: 	Getting text content of Furthest Point B
+2024-06-27 23:04:08 info: 	Waiting for Furthest Point B to be visible in DOM
+2024-06-27 23:04:08 info: 	Getting text content of Furthest Distance
+2024-06-27 23:04:08 info: 	Waiting for Furthest Distance to be visible in DOM
+2024-06-27 23:04:08 info: 	Getting text content of Average Distance
+2024-06-27 23:04:08 info: 	Waiting for Average Distance to be visible in DOM
+2024-06-27 23:04:08 info: 	##############################################################################
+2024-06-27 23:04:08 info: 	SCENARIO: VALID INPUT WITH MULTIPLE POINTS: 16 - PASSED
+2024-06-27 23:04:08 info: 	##############################################################################
+2024-06-27 23:04:08 info: 	##############################################################################
+2024-06-27 23:04:08 info: 	SCENARIO: MORE THAN 10 PAIRS: 24 - STARTED
+2024-06-27 23:04:08 info: 	##############################################################################
+2024-06-27 23:04:08 info: 	Entering Coordinate Points as 0.0,0.0 1.0,1.0 invalid 2.0,2.0
+2024-06-27 23:04:08 info: 	Navigate to Home page
+2024-06-27 23:04:09 info: 	Clicking on Analyze Button
+2024-06-27 23:04:09 info: 	Entering Coordinate Points as 0.0,0.0 1.0,1.0 2.0,2.0 3.0,3.0 4.0,4.0 5.0,5.0 6.0,6.0 7.0,7.0 8.0,8.0 9.0,9.0 10.0,10.0
+2024-06-27 23:04:09 info: 	Clicking on Analyze Button
+2024-06-27 23:04:09 info: 	Getting text content of Message
+2024-06-27 23:04:09 info: 	Waiting for Message to be visible in DOM
+2024-06-27 23:04:09 error: 	More than 10 pairs: 24 - FAILED
+Error: expect(received).toContain(expected) // indexOf
+
+Expected substring: "Too many coordinate points. Maximum allowed is 10 pairs"
+Received string:    "Valid input"
+    at Proxy.<anonymous> (C:\Users\shyam\CoordinatePointsTool\node_modules\playwright\lib\matchers\expect.js:194:37)
+    at CommonPage.<anonymous> (C:\Users\shyam\CoordinatePointsTool\src\web\pages\CommonPage.ts:59:33)
+    at fulfilled (C:\Users\shyam\CoordinatePointsTool\src\web\pages\CommonPage.ts:5:58)
+2024-06-27 23:04:09 info: 	##############################################################################
+2024-06-27 23:04:09 info: 	SCENARIO: MORE THAN 10 PAIRS: 24 - FAILED
+2024-06-27 23:04:09 info: 	##############################################################################
+2024-06-27 23:04:39 error: 	Invalid input format: 19 - FAILED
+locator.click: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator('button[type=\'button\']').first()
+  -   locator resolved to <button disabled type="button" class="mb-3 btn btn-primary">Analyze</button>
+  - attempting click action
+  -   waiting for element to be visible, enabled and stable
+  -   element is not enabled
+  - retrying click action, attempt #1
+  -   waiting for element to be visible, enabled and stable
+  -   element is not enabled
+  - retrying click action, attempt #2
+  -   waiting 20ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is not enabled
+  - retrying click action, attempt #3
+  -   waiting 100ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is not enabled
+  - retrying click action, attempt #4
+  -   waiting 100ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is not enabled
+  - retrying click action, attempt #5
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is not enabled
+  - retrying click action, attempt #6
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is not enabled
+  - retrying click action, attempt #7
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is not enabled
+  - retrying click action, attempt #8
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is not enabled
+  - retrying click action, attempt #9
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is not enabled
+  - retrying click action, attempt #10
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is not enabled
+  - retrying click action, attempt #11
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is not enabled
+  - retrying click action, attempt #12
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is not enabled
+  - retrying click action, attempt #13
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is not enabled
+  - retrying click action, attempt #14
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is not enabled
+  - retrying click action, attempt #15
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is not enabled
+  - retrying click action, attempt #16
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is not enabled
+  - retrying click action, attempt #17
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is not enabled
+  - retrying click action, attempt #18
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is not enabled
+  - retrying click action, attempt #19
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is not enabled
+  - retrying click action, attempt #20
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is not enabled
+  - retrying click action, attempt #21
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is not enabled
+  - retrying click action, attempt #22
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is not enabled
+  - retrying click action, attempt #23
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is not enabled
+  - retrying click action, attempt #24
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is not enabled
+  - retrying click action, attempt #25
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is not enabled
+  - retrying click action, attempt #26
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is not enabled
+  - retrying click action, attempt #27
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is not enabled
+  - retrying click action, attempt #28
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is not enabled
+  - retrying click action, attempt #29
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is not enabled
+  - retrying click action, attempt #30
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is not enabled
+  - retrying click action, attempt #31
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is not enabled
+  - retrying click action, attempt #32
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is not enabled
+  - retrying click action, attempt #33
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is not enabled
+  - retrying click action, attempt #34
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is not enabled
+  - retrying click action, attempt #35
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is not enabled
+  - retrying click action, attempt #36
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is not enabled
+  - retrying click action, attempt #37
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is not enabled
+  - retrying click action, attempt #38
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is not enabled
+  - retrying click action, attempt #39
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is not enabled
+  - retrying click action, attempt #40
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is not enabled
+  - retrying click action, attempt #41
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is not enabled
+  - retrying click action, attempt #42
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is not enabled
+  - retrying click action, attempt #43
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is not enabled
+  - retrying click action, attempt #44
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is not enabled
+  - retrying click action, attempt #45
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is not enabled
+  - retrying click action, attempt #46
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is not enabled
+  - retrying click action, attempt #47
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is not enabled
+  - retrying click action, attempt #48
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is not enabled
+  - retrying click action, attempt #49
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is not enabled
+  - retrying click action, attempt #50
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is not enabled
+  - retrying click action, attempt #51
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is not enabled
+  - retrying click action, attempt #52
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is not enabled
+  - retrying click action, attempt #53
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is not enabled
+  - retrying click action, attempt #54
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is not enabled
+  - retrying click action, attempt #55
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is not enabled
+  - retrying click action, attempt #56
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is not enabled
+  - retrying click action, attempt #57
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is not enabled
+  - retrying click action, attempt #58
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is not enabled
+  - retrying click action, attempt #59
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is not enabled
+  - retrying click action, attempt #60
+  -   waiting 500ms
+
+    at UIElementActions.<anonymous> (C:\Users\shyam\CoordinatePointsTool\src\support\playwright\actions\UIElementActions.ts:59:29)
+    at C:\Users\shyam\CoordinatePointsTool\src\support\playwright\actions\UIElementActions.ts:8:71
+    at __awaiter (C:\Users\shyam\CoordinatePointsTool\src\support\playwright\actions\UIElementActions.ts:4:12)
+    at UIElementActions.click (C:\Users\shyam\CoordinatePointsTool\src\support\playwright\actions\UIElementActions.ts:63:16)
+    at CommonPage.<anonymous> (C:\Users\shyam\CoordinatePointsTool\src\web\pages\CommonPage.ts:29:79)
+    at C:\Users\shyam\CoordinatePointsTool\src\web\pages\CommonPage.ts:8:71
+    at __awaiter (C:\Users\shyam\CoordinatePointsTool\src\web\pages\CommonPage.ts:4:12)
+    at CommonPage.clickOnAnalyzeButton (C:\Users\shyam\CoordinatePointsTool\src\web\pages\CommonPage.ts:42:16)
+    at World.<anonymous> (C:\Users\shyam\CoordinatePointsTool\src\web\steps\coordinatePointsSteps.ts:18:34)
+    at C:\Users\shyam\CoordinatePointsTool\src\web\steps\coordinatePointsSteps.ts:8:71
+    at __awaiter (C:\Users\shyam\CoordinatePointsTool\src\web\steps\coordinatePointsSteps.ts:4:12)
+    at World.<anonymous> (C:\Users\shyam\CoordinatePointsTool\src\web\steps\coordinatePointsSteps.ts:34:12)
+2024-06-27 23:04:39 info: 	##############################################################################
+2024-06-27 23:04:39 info: 	SCENARIO: INVALID INPUT FORMAT: 19 - FAILED
+2024-06-27 23:04:39 info: 	##############################################################################
+2024-06-27 23:07:05 info: 	##############################################################################
+2024-06-27 23:07:05 info: 	SCENARIO: VALID INPUT WITH MULTIPLE POINTS: 16 - STARTED
+2024-06-27 23:07:05 info: 	##############################################################################
+2024-06-27 23:07:05 info: 	Navigate to Home page
+2024-06-27 23:07:05 info: 	##############################################################################
+2024-06-27 23:07:05 info: 	SCENARIO: INVALID INPUT FORMAT: 19 - STARTED
+2024-06-27 23:07:05 info: 	##############################################################################
+2024-06-27 23:07:06 info: 	Navigate to Home page
+2024-06-27 23:07:06 info: 	Entering Coordinate Points as 0.0,1.0 2.0,3.0 4.0,5.0
+2024-06-27 23:07:06 info: 	Getting text content of Message
+2024-06-27 23:07:06 info: 	Entering Coordinate Points as 0.0,0.0 1.0,1.0 invalid 2.0,2.0
+2024-06-27 23:07:06 info: 	Waiting for Message to be visible in DOM
+2024-06-27 23:07:06 info: 	Clicking on Analyze Button
+2024-06-27 23:07:06 info: 	Getting text content of Message
+2024-06-27 23:07:06 info: 	Waiting for Message to be visible in DOM
+2024-06-27 23:07:06 info: 	Getting text content of Closest Point A
+2024-06-27 23:07:06 info: 	Waiting for Closest Point A to be visible in DOM
+2024-06-27 23:07:06 info: 	Getting text content of Closest Point B
+2024-06-27 23:07:06 info: 	Waiting for Closest Point B to be visible in DOM
+2024-06-27 23:07:06 info: 	##############################################################################
+2024-06-27 23:07:06 info: 	SCENARIO: INVALID INPUT FORMAT: 19 - PASSED
+2024-06-27 23:07:06 info: 	##############################################################################
+2024-06-27 23:07:06 info: 	##############################################################################
+2024-06-27 23:07:06 info: 	SCENARIO: MORE THAN 10 PAIRS: 23 - STARTED
+2024-06-27 23:07:06 info: 	##############################################################################
+2024-06-27 23:07:06 info: 	Getting text content of Closest Distance
+2024-06-27 23:07:06 info: 	Waiting for Closest Distance to be visible in DOM
+2024-06-27 23:07:06 info: 	Getting text content of Furthest Point A
+2024-06-27 23:07:06 info: 	Waiting for Furthest Point A to be visible in DOM
+2024-06-27 23:07:06 info: 	Getting text content of Furthest Point B
+2024-06-27 23:07:06 info: 	Waiting for Furthest Point B to be visible in DOM
+2024-06-27 23:07:06 info: 	Getting text content of Furthest Distance
+2024-06-27 23:07:06 info: 	Waiting for Furthest Distance to be visible in DOM
+2024-06-27 23:07:06 info: 	Getting text content of Average Distance
+2024-06-27 23:07:06 info: 	Waiting for Average Distance to be visible in DOM
+2024-06-27 23:07:06 info: 	##############################################################################
+2024-06-27 23:07:06 info: 	SCENARIO: VALID INPUT WITH MULTIPLE POINTS: 16 - PASSED
+2024-06-27 23:07:06 info: 	##############################################################################
+2024-06-27 23:07:06 info: 	Navigate to Home page
+2024-06-27 23:07:06 info: 	Entering Coordinate Points as 0.0,0.0 1.0,1.0 2.0,2.0 3.0,3.0 4.0,4.0 5.0,5.0 6.0,6.0 7.0,7.0 8.0,8.0 9.0,9.0 10.0,10.0
+2024-06-27 23:07:06 info: 	Getting text content of Message
+2024-06-27 23:07:06 info: 	Waiting for Message to be visible in DOM
+2024-06-27 23:07:07 error: 	More than 10 pairs: 23 - FAILED
+Error: expect(received).toContain(expected) // indexOf
+
+Expected substring: "Too many coordinate points. Maximum allowed is 10 pairs"
+Received string:    "Valid input"
+    at Proxy.<anonymous> (C:\Users\shyam\CoordinatePointsTool\node_modules\playwright\lib\matchers\expect.js:194:37)
+    at CommonPage.<anonymous> (C:\Users\shyam\CoordinatePointsTool\src\web\pages\CommonPage.ts:59:33)
+    at fulfilled (C:\Users\shyam\CoordinatePointsTool\src\web\pages\CommonPage.ts:5:58)
+2024-06-27 23:07:07 info: 	##############################################################################
+2024-06-27 23:07:07 info: 	SCENARIO: MORE THAN 10 PAIRS: 23 - FAILED
+2024-06-27 23:07:07 info: 	##############################################################################
+2024-06-28 11:46:20 info: 	##############################################################################
+2024-06-28 11:46:20 info: 	SCENARIO: VALID INPUT WITH MULTIPLE POINTS: 16 - STARTED
+2024-06-28 11:46:20 info: 	##############################################################################
+2024-06-28 11:46:20 info: 	##############################################################################
+2024-06-28 11:46:20 info: 	SCENARIO: INVALID INPUT FORMAT: 19 - STARTED
+2024-06-28 11:46:20 info: 	##############################################################################
+2024-06-28 11:46:20 info: 	Navigate to Home page
+2024-06-28 11:46:20 info: 	Navigate to Home page
+2024-06-28 11:46:21 info: 	Entering Coordinate Points as 0.0,0.0 1.0,1.0 invalid 2.0,2.0
+2024-06-28 11:46:21 info: 	Entering Coordinate Points as 0.0,1.0 2.0,3.0 4.0,5.0
+2024-06-28 11:46:21 info: 	Getting text content of Message
+2024-06-28 11:46:21 info: 	Waiting for Message to be visible in DOM
+2024-06-28 11:46:21 info: 	Getting text content of Message
+2024-06-28 11:46:21 info: 	Waiting for Message to be visible in DOM
+2024-06-28 11:46:21 info: 	Clicking on Analyze Button
+2024-06-28 11:46:21 info: 	##############################################################################
+2024-06-28 11:46:21 info: 	SCENARIO: INVALID INPUT FORMAT: 19 - PASSED
+2024-06-28 11:46:21 info: 	##############################################################################
+2024-06-28 11:46:21 info: 	##############################################################################
+2024-06-28 11:46:21 info: 	SCENARIO: MORE THAN 10 PAIRS: 23 - STARTED
+2024-06-28 11:46:21 info: 	##############################################################################
+2024-06-28 11:46:21 info: 	Getting text content of Closest Point A
+2024-06-28 11:46:21 info: 	Waiting for Closest Point A to be visible in DOM
+2024-06-28 11:46:21 info: 	Getting text content of Closest Point B
+2024-06-28 11:46:21 info: 	Waiting for Closest Point B to be visible in DOM
+2024-06-28 11:46:21 info: 	Getting text content of Closest Distance
+2024-06-28 11:46:21 info: 	Waiting for Closest Distance to be visible in DOM
+2024-06-28 11:46:21 info: 	Navigate to Home page
+2024-06-28 11:46:21 info: 	Getting text content of Furthest Point A
+2024-06-28 11:46:21 info: 	Waiting for Furthest Point A to be visible in DOM
+2024-06-28 11:46:21 info: 	Getting text content of Furthest Point B
+2024-06-28 11:46:21 info: 	Waiting for Furthest Point B to be visible in DOM
+2024-06-28 11:46:21 info: 	Getting text content of Furthest Distance
+2024-06-28 11:46:21 info: 	Waiting for Furthest Distance to be visible in DOM
+2024-06-28 11:46:22 info: 	Getting text content of Average Distance
+2024-06-28 11:46:22 info: 	Waiting for Average Distance to be visible in DOM
+2024-06-28 11:46:22 info: 	##############################################################################
+2024-06-28 11:46:22 info: 	SCENARIO: VALID INPUT WITH MULTIPLE POINTS: 16 - PASSED
+2024-06-28 11:46:22 info: 	##############################################################################
+2024-06-28 11:46:22 info: 	Entering Coordinate Points as 0.0,0.0 1.0,1.0 2.0,2.0 3.0,3.0 4.0,4.0 5.0,5.0 6.0,6.0 7.0,7.0 8.0,8.0 9.0,9.0 10.0,10.0
+2024-06-28 11:46:22 info: 	Getting text content of Message
+2024-06-28 11:46:22 info: 	Waiting for Message to be visible in DOM
+2024-06-28 11:46:22 error: 	More than 10 pairs: 23 - FAILED
+Error: expect(received).toContain(expected) // indexOf
+
+Expected substring: "Too many coordinate points. Maximum allowed is 10 pairs"
+Received string:    "Valid input"
+    at Proxy.<anonymous> (C:\Users\shyam\CoordinatePointsTool\node_modules\playwright\lib\matchers\expect.js:194:37)
+    at CommonPage.<anonymous> (C:\Users\shyam\CoordinatePointsTool\src\web\pages\CommonPage.ts:59:33)
+    at fulfilled (C:\Users\shyam\CoordinatePointsTool\src\web\pages\CommonPage.ts:5:58)
+2024-06-28 11:46:22 info: 	##############################################################################
+2024-06-28 11:46:22 info: 	SCENARIO: MORE THAN 10 PAIRS: 23 - FAILED
+2024-06-28 11:46:22 info: 	##############################################################################
+2024-06-28 11:48:44 info: 	##############################################################################
+2024-06-28 11:48:44 info: 	SCENARIO: VALID INPUT WITH MULTIPLE POINTS: 16 - STARTED
+2024-06-28 11:48:44 info: 	##############################################################################
+2024-06-28 11:48:45 info: 	Navigate to Home page
+2024-06-28 11:48:45 info: 	##############################################################################
+2024-06-28 11:48:45 info: 	SCENARIO: INVALID INPUT FORMAT: 19 - STARTED
+2024-06-28 11:48:45 info: 	##############################################################################
+2024-06-28 11:48:45 info: 	Entering Coordinate Points as 0.0,1.0 2.0,3.0 4.0,5.0
+2024-06-28 11:48:45 info: 	Navigate to Home page
+2024-06-28 11:48:45 info: 	Getting text content of Message
+2024-06-28 11:48:45 info: 	Waiting for Message to be visible in DOM
+2024-06-28 11:48:45 info: 	Clicking on Analyze Button
+2024-06-28 11:48:45 info: 	Entering Coordinate Points as 0.0,0.0 1.0,1.0 invalid 2.0,2.0
+2024-06-28 11:48:45 info: 	Getting text content of Closest Point A
+2024-06-28 11:48:45 info: 	Waiting for Closest Point A to be visible in DOM
+2024-06-28 11:48:45 info: 	Getting text content of Closest Point B
+2024-06-28 11:48:45 info: 	Waiting for Closest Point B to be visible in DOM
+2024-06-28 11:48:46 info: 	Getting text content of Closest Distance
+2024-06-28 11:48:46 info: 	Waiting for Closest Distance to be visible in DOM
+2024-06-28 11:48:46 info: 	Getting text content of Furthest Point A
+2024-06-28 11:48:46 info: 	Waiting for Furthest Point A to be visible in DOM
+2024-06-28 11:48:46 info: 	Getting text content of Furthest Point B
+2024-06-28 11:48:46 info: 	Waiting for Furthest Point B to be visible in DOM
+2024-06-28 11:48:46 info: 	Getting text content of Message
+2024-06-28 11:48:46 info: 	Waiting for Message to be visible in DOM
+2024-06-28 11:48:46 info: 	Getting text content of Furthest Distance
+2024-06-28 11:48:46 info: 	Waiting for Furthest Distance to be visible in DOM
+2024-06-28 11:48:46 info: 	Getting text content of Average Distance
+2024-06-28 11:48:46 info: 	Waiting for Average Distance to be visible in DOM
+2024-06-28 11:48:46 info: 	##############################################################################
+2024-06-28 11:48:46 info: 	SCENARIO: INVALID INPUT FORMAT: 19 - PASSED
+2024-06-28 11:48:46 info: 	##############################################################################
+2024-06-28 11:48:46 info: 	##############################################################################
+2024-06-28 11:48:46 info: 	SCENARIO: MORE THAN 10 PAIRS: 23 - STARTED
+2024-06-28 11:48:46 info: 	##############################################################################
+2024-06-28 11:48:46 info: 	##############################################################################
+2024-06-28 11:48:46 info: 	SCENARIO: VALID INPUT WITH MULTIPLE POINTS: 16 - PASSED
+2024-06-28 11:48:46 info: 	##############################################################################
+2024-06-28 11:48:46 info: 	Navigate to Home page
+2024-06-28 11:48:46 info: 	Entering Coordinate Points as 0.0,0.0 1.0,1.0 2.0,2.0 3.0,3.0 4.0,4.0 5.0,5.0 6.0,6.0 7.0,7.0 8.0,8.0 9.0,9.0 10.0,10.0
+2024-06-28 11:48:46 info: 	Getting text content of Message
+2024-06-28 11:48:46 info: 	Waiting for Message to be visible in DOM
+2024-06-28 11:48:47 error: 	More than 10 pairs: 23 - FAILED
+Error: expect(received).toContain(expected) // indexOf
+
+Expected substring: "Too many coordinate points. Maximum allowed is 10 pairs"
+Received string:    "Valid input"
+    at Proxy.<anonymous> (C:\Users\shyam\CoordinatePointsTool\node_modules\playwright\lib\matchers\expect.js:194:37)
+    at CommonPage.<anonymous> (C:\Users\shyam\CoordinatePointsTool\src\web\pages\CommonPage.ts:59:33)
+    at fulfilled (C:\Users\shyam\CoordinatePointsTool\src\web\pages\CommonPage.ts:5:58)
+2024-06-28 11:48:47 info: 	##############################################################################
+2024-06-28 11:48:47 info: 	SCENARIO: MORE THAN 10 PAIRS: 23 - FAILED
+2024-06-28 11:48:47 info: 	##############################################################################
+2024-06-28 12:25:19 info: 	##############################################################################
+2024-06-28 12:25:19 info: 	SCENARIO: VALID INPUT WITH MULTIPLE POINTS: 16 - STARTED
+2024-06-28 12:25:19 info: 	##############################################################################
+2024-06-28 12:25:20 info: 	Navigate to Home page
+2024-06-28 12:25:20 info: 	##############################################################################
+2024-06-28 12:25:20 info: 	SCENARIO: VALID INPUT WITH MULTIPLE POINTS: 17 - STARTED
+2024-06-28 12:25:20 info: 	##############################################################################
+2024-06-28 12:25:20 info: 	Entering Coordinate Points as 0.0,1.0 2.0,3.0 4.0,5.0
+2024-06-28 12:25:20 info: 	Navigate to Home page
+2024-06-28 12:25:20 info: 	Getting text content of Message
+2024-06-28 12:25:20 info: 	Waiting for Message to be visible in DOM
+2024-06-28 12:25:21 info: 	Clicking on Analyze Button
+2024-06-28 12:25:21 info: 	Entering Coordinate Points as 0.0,1.0 2.0,3.0 4.0,5.0
+2024-06-28 12:25:21 info: 	Getting text content of Closest Point A
+2024-06-28 12:25:21 info: 	Waiting for Closest Point A to be visible in DOM
+2024-06-28 12:25:21 info: 	Getting text content of Closest Point B
+2024-06-28 12:25:21 info: 	Waiting for Closest Point B to be visible in DOM
+2024-06-28 12:25:21 info: 	Getting text content of Closest Distance
+2024-06-28 12:25:21 info: 	Waiting for Closest Distance to be visible in DOM
+2024-06-28 12:25:21 info: 	Getting text content of Furthest Point A
+2024-06-28 12:25:21 info: 	Getting text content of Message
+2024-06-28 12:25:21 info: 	Waiting for Furthest Point A to be visible in DOM
+2024-06-28 12:25:21 info: 	Waiting for Message to be visible in DOM
+2024-06-28 12:25:21 info: 	Getting text content of Furthest Point B
+2024-06-28 12:25:21 info: 	Waiting for Furthest Point B to be visible in DOM
+2024-06-28 12:25:21 info: 	Clicking on Analyze Button
+2024-06-28 12:25:21 info: 	Getting text content of Furthest Distance
+2024-06-28 12:25:21 info: 	Waiting for Furthest Distance to be visible in DOM
+2024-06-28 12:25:21 info: 	Getting text content of Average Distance
+2024-06-28 12:25:21 info: 	Waiting for Average Distance to be visible in DOM
+2024-06-28 12:25:21 info: 	##############################################################################
+2024-06-28 12:25:21 info: 	SCENARIO: VALID INPUT WITH MULTIPLE POINTS: 16 - PASSED
+2024-06-28 12:25:21 info: 	##############################################################################
+2024-06-28 12:25:21 info: 	##############################################################################
+2024-06-28 12:25:21 info: 	SCENARIO: VALID INPUT WITH MULTIPLE POINTS: 18 - STARTED
+2024-06-28 12:25:21 info: 	##############################################################################
+2024-06-28 12:25:21 info: 	Getting text content of Closest Point A
+2024-06-28 12:25:21 info: 	Waiting for Closest Point A to be visible in DOM
+2024-06-28 12:25:21 info: 	Getting text content of Closest Point B
+2024-06-28 12:25:21 info: 	Waiting for Closest Point B to be visible in DOM
+2024-06-28 12:25:21 info: 	Getting text content of Closest Distance
+2024-06-28 12:25:21 info: 	Waiting for Closest Distance to be visible in DOM
+2024-06-28 12:25:21 info: 	Getting text content of Furthest Point A
+2024-06-28 12:25:21 info: 	Waiting for Furthest Point A to be visible in DOM
+2024-06-28 12:25:21 info: 	Getting text content of Furthest Point B
+2024-06-28 12:25:21 info: 	Waiting for Furthest Point B to be visible in DOM
+2024-06-28 12:25:21 info: 	Getting text content of Furthest Distance
+2024-06-28 12:25:21 info: 	Waiting for Furthest Distance to be visible in DOM
+2024-06-28 12:25:21 info: 	Getting text content of Average Distance
+2024-06-28 12:25:21 info: 	Waiting for Average Distance to be visible in DOM
+2024-06-28 12:25:21 info: 	Navigate to Home page
+2024-06-28 12:25:21 info: 	Entering Coordinate Points as 1.0,1.0 1.0,1.0 2.0,2.0
+2024-06-28 12:25:21 error: 	Valid input with multiple points: 17 - FAILED
+Error: expect(received).toMatch(expected)
+
+Expected substring: "4.24"
+Received string:    "3.77"
+    at Proxy.<anonymous> (C:\Users\shyam\CoordinatePointsTool\node_modules\playwright\lib\matchers\expect.js:194:37)
+    at CommonPage.<anonymous> (C:\Users\shyam\CoordinatePointsTool\src\web\pages\CommonPage.ts:50:29)
+    at fulfilled (C:\Users\shyam\CoordinatePointsTool\src\web\pages\CommonPage.ts:5:58)
+2024-06-28 12:25:22 info: 	##############################################################################
+2024-06-28 12:25:22 info: 	SCENARIO: VALID INPUT WITH MULTIPLE POINTS: 17 - FAILED
+2024-06-28 12:25:22 info: 	##############################################################################
+2024-06-28 12:25:22 info: 	Getting text content of Message
+2024-06-28 12:25:22 info: 	##############################################################################
+2024-06-28 12:25:22 info: 	SCENARIO: VALID INPUT WITH MULTIPLE POINTS: 19 - STARTED
+2024-06-28 12:25:22 info: 	##############################################################################
+2024-06-28 12:25:22 info: 	Waiting for Message to be visible in DOM
+2024-06-28 12:25:22 info: 	Clicking on Analyze Button
+2024-06-28 12:25:22 info: 	Getting text content of Closest Point A
+2024-06-28 12:25:22 info: 	Waiting for Closest Point A to be visible in DOM
+2024-06-28 12:25:22 info: 	Getting text content of Closest Point B
+2024-06-28 12:25:22 info: 	Waiting for Closest Point B to be visible in DOM
+2024-06-28 12:25:22 info: 	Navigate to Home page
+2024-06-28 12:25:22 info: 	Getting text content of Closest Distance
+2024-06-28 12:25:22 info: 	Waiting for Closest Distance to be visible in DOM
+2024-06-28 12:25:22 info: 	Getting text content of Furthest Point A
+2024-06-28 12:25:22 info: 	Waiting for Furthest Point A to be visible in DOM
+2024-06-28 12:25:22 info: 	Getting text content of Furthest Point B
+2024-06-28 12:25:22 info: 	Waiting for Furthest Point B to be visible in DOM
+2024-06-28 12:25:22 info: 	Getting text content of Furthest Distance
+2024-06-28 12:25:22 info: 	Waiting for Furthest Distance to be visible in DOM
+2024-06-28 12:25:22 info: 	Getting text content of Average Distance
+2024-06-28 12:25:22 info: 	Waiting for Average Distance to be visible in DOM
+2024-06-28 12:25:22 info: 	##############################################################################
+2024-06-28 12:25:22 info: 	SCENARIO: VALID INPUT WITH MULTIPLE POINTS: 18 - PASSED
+2024-06-28 12:25:22 info: 	##############################################################################
+2024-06-28 12:25:22 info: 	##############################################################################
+2024-06-28 12:25:22 info: 	SCENARIO: VALID INPUT WITH MULTIPLE POINTS: 20 - STARTED
+2024-06-28 12:25:22 info: 	##############################################################################
+2024-06-28 12:25:22 info: 	Entering Coordinate Points as 0.0,0.0 1.0,1.0 2.0,2.0 3.0,3.0 4.0,4.0 5.0,5.0 6.0,6.0 7.0,7.0 8.0,8.0 9.0,9.0
+2024-06-28 12:25:22 info: 	Navigate to Home page
+2024-06-28 12:25:22 info: 	Getting text content of Message
+2024-06-28 12:25:22 info: 	Waiting for Message to be visible in DOM
+2024-06-28 12:25:22 info: 	Clicking on Analyze Button
+2024-06-28 12:25:22 info: 	Entering Coordinate Points as -1.0,-1.0 1.0,1.0 -2.0,-2.0 2.0,2.0
+2024-06-28 12:25:22 info: 	Getting text content of Closest Point A
+2024-06-28 12:25:22 info: 	Waiting for Closest Point A to be visible in DOM
+2024-06-28 12:25:22 info: 	Getting text content of Closest Point B
+2024-06-28 12:25:22 info: 	Waiting for Closest Point B to be visible in DOM
+2024-06-28 12:25:23 info: 	Getting text content of Message
+2024-06-28 12:25:23 info: 	Waiting for Message to be visible in DOM
+2024-06-28 12:25:23 info: 	Getting text content of Closest Distance
+2024-06-28 12:25:23 info: 	Waiting for Closest Distance to be visible in DOM
+2024-06-28 12:25:23 info: 	Clicking on Analyze Button
+2024-06-28 12:25:23 info: 	Getting text content of Furthest Point A
+2024-06-28 12:25:23 info: 	Waiting for Furthest Point A to be visible in DOM
+2024-06-28 12:25:23 info: 	Getting text content of Furthest Point B
+2024-06-28 12:25:23 info: 	Waiting for Furthest Point B to be visible in DOM
+2024-06-28 12:25:23 info: 	Getting text content of Furthest Distance
+2024-06-28 12:25:23 info: 	Waiting for Furthest Distance to be visible in DOM
+2024-06-28 12:25:23 info: 	Getting text content of Average Distance
+2024-06-28 12:25:23 info: 	Waiting for Average Distance to be visible in DOM
+2024-06-28 12:25:23 info: 	##############################################################################
+2024-06-28 12:25:23 info: 	SCENARIO: VALID INPUT WITH MULTIPLE POINTS: 19 - PASSED
+2024-06-28 12:25:23 info: 	##############################################################################
+2024-06-28 12:25:23 info: 	##############################################################################
+2024-06-28 12:25:23 info: 	SCENARIO: INVALID INPUT FORMAT: 23 - STARTED
+2024-06-28 12:25:23 info: 	##############################################################################
+2024-06-28 12:25:23 info: 	Getting text content of Closest Point A
+2024-06-28 12:25:23 info: 	Waiting for Closest Point A to be visible in DOM
+2024-06-28 12:25:23 info: 	Getting text content of Closest Point B
+2024-06-28 12:25:23 info: 	Waiting for Closest Point B to be visible in DOM
+2024-06-28 12:25:23 info: 	Getting text content of Closest Distance
+2024-06-28 12:25:23 info: 	Waiting for Closest Distance to be visible in DOM
+2024-06-28 12:25:23 info: 	Getting text content of Furthest Point A
+2024-06-28 12:25:23 info: 	Waiting for Furthest Point A to be visible in DOM
+2024-06-28 12:25:23 info: 	Getting text content of Furthest Point B
+2024-06-28 12:25:23 info: 	Waiting for Furthest Point B to be visible in DOM
+2024-06-28 12:25:23 info: 	Getting text content of Furthest Distance
+2024-06-28 12:25:23 info: 	Waiting for Furthest Distance to be visible in DOM
+2024-06-28 12:25:23 info: 	Getting text content of Average Distance
+2024-06-28 12:25:23 info: 	Waiting for Average Distance to be visible in DOM
+2024-06-28 12:25:23 info: 	##############################################################################
+2024-06-28 12:25:23 info: 	SCENARIO: VALID INPUT WITH MULTIPLE POINTS: 20 - PASSED
+2024-06-28 12:25:23 info: 	##############################################################################
+2024-06-28 12:25:23 info: 	##############################################################################
+2024-06-28 12:25:23 info: 	SCENARIO: MORE THAN 10 PAIRS: 27 - STARTED
+2024-06-28 12:25:23 info: 	##############################################################################
+2024-06-28 12:25:23 info: 	Navigate to Home page
+2024-06-28 12:25:23 info: 	Entering Coordinate Points as 0.0,0.0 1.0,1.0 invalid 2.0,2.0
+2024-06-28 12:25:23 info: 	Navigate to Home page
+2024-06-28 12:25:23 info: 	Getting text content of Message
+2024-06-28 12:25:23 info: 	Waiting for Message to be visible in DOM
+2024-06-28 12:25:23 info: 	##############################################################################
+2024-06-28 12:25:23 info: 	SCENARIO: INVALID INPUT FORMAT: 23 - PASSED
+2024-06-28 12:25:23 info: 	##############################################################################
+2024-06-28 12:25:23 info: 	Entering Coordinate Points as 0.0,0.0 1.0,1.0 2.0,2.0 3.0,3.0 4.0,4.0 5.0,5.0 6.0,6.0 7.0,7.0 8.0,8.0 9.0,9.0 10.0,10.0
+2024-06-28 12:25:24 info: 	Getting text content of Message
+2024-06-28 12:25:24 info: 	Waiting for Message to be visible in DOM
+2024-06-28 12:25:24 error: 	More than 10 pairs: 27 - FAILED
+Error: expect(received).toContain(expected) // indexOf
+
+Expected substring: "Too many coordinate points. Maximum allowed is 10 pairs"
+Received string:    "Valid input"
+    at Proxy.<anonymous> (C:\Users\shyam\CoordinatePointsTool\node_modules\playwright\lib\matchers\expect.js:194:37)
+    at CommonPage.<anonymous> (C:\Users\shyam\CoordinatePointsTool\src\web\pages\CommonPage.ts:59:33)
+    at fulfilled (C:\Users\shyam\CoordinatePointsTool\src\web\pages\CommonPage.ts:5:58)
+2024-06-28 12:25:24 info: 	##############################################################################
+2024-06-28 12:25:24 info: 	SCENARIO: MORE THAN 10 PAIRS: 27 - FAILED
+2024-06-28 12:25:24 info: 	##############################################################################
+2024-06-28 15:26:16 info: 	##############################################################################
+2024-06-28 15:26:16 info: 	SCENARIO: VALID INPUT WITH MULTIPLE POINTS: 16 - STARTED
+2024-06-28 15:26:16 info: 	##############################################################################
+2024-06-28 15:26:16 info: 	##############################################################################
+2024-06-28 15:26:16 info: 	SCENARIO: VALID INPUT WITH MULTIPLE POINTS: 17 - STARTED
+2024-06-28 15:26:16 info: 	##############################################################################
+2024-06-28 15:26:18 info: 	Navigate to Home page
+2024-06-28 15:26:20 info: 	Entering Coordinate Points as 0.0,1.0 2.0,3.0 4.0,5.0
+2024-06-28 15:26:20 info: 	Getting text content of Message
+2024-06-28 15:26:20 info: 	Waiting for Message to be visible in DOM
+2024-06-28 15:26:20 info: 	Clicking on Analyze Button
+2024-06-28 15:26:20 info: 	Getting text content of Closest Point A
+2024-06-28 15:26:20 info: 	Waiting for Closest Point A to be visible in DOM
+2024-06-28 15:26:20 info: 	Getting text content of Closest Point B
+2024-06-28 15:26:20 info: 	Waiting for Closest Point B to be visible in DOM
+2024-06-28 15:26:20 info: 	Getting text content of Closest Distance
+2024-06-28 15:26:20 info: 	Waiting for Closest Distance to be visible in DOM
+2024-06-28 15:26:20 info: 	Getting text content of Furthest Point A
+2024-06-28 15:26:20 info: 	Waiting for Furthest Point A to be visible in DOM
+2024-06-28 15:26:20 info: 	Getting text content of Furthest Point B
+2024-06-28 15:26:20 info: 	Waiting for Furthest Point B to be visible in DOM
+2024-06-28 15:26:20 info: 	Getting text content of Furthest Distance
+2024-06-28 15:26:20 info: 	Waiting for Furthest Distance to be visible in DOM
+2024-06-28 15:26:20 info: 	Getting text content of Average Distance
+2024-06-28 15:26:20 info: 	Waiting for Average Distance to be visible in DOM
+2024-06-28 15:26:21 error: 	Valid input with multiple points: 17 - FAILED
+Error: expect(received).toMatch(expected)
+
+Expected substring: "4.24"
+Received string:    "3.77"
+    at Proxy.<anonymous> (C:\Users\shyam\CoordinatePointsTool\node_modules\playwright\lib\matchers\expect.js:194:37)
+    at CommonPage.<anonymous> (C:\Users\shyam\CoordinatePointsTool\src\web\pages\CommonPage.ts:50:29)
+    at fulfilled (C:\Users\shyam\CoordinatePointsTool\src\web\pages\CommonPage.ts:5:58)
+2024-06-28 15:26:21 info: 	##############################################################################
+2024-06-28 15:26:21 info: 	SCENARIO: VALID INPUT WITH MULTIPLE POINTS: 17 - FAILED
+2024-06-28 15:26:21 info: 	##############################################################################
+2024-06-28 15:26:21 info: 	##############################################################################
+2024-06-28 15:26:21 info: 	SCENARIO: VALID INPUT WITH MULTIPLE POINTS: 18 - STARTED
+2024-06-28 15:26:21 info: 	##############################################################################
+2024-06-28 15:26:21 info: 	Navigate to Home page
+2024-06-28 15:26:22 info: 	Entering Coordinate Points as 1.0,1.0 1.0,1.0 2.0,2.0
+2024-06-28 15:26:22 info: 	Getting text content of Message
+2024-06-28 15:26:22 info: 	Waiting for Message to be visible in DOM
+2024-06-28 15:26:22 info: 	Clicking on Analyze Button
+2024-06-28 15:26:22 info: 	Navigate to Home page
+2024-06-28 15:26:22 info: 	Getting text content of Closest Point A
+2024-06-28 15:26:22 info: 	Waiting for Closest Point A to be visible in DOM
+2024-06-28 15:26:22 info: 	Getting text content of Closest Point B
+2024-06-28 15:26:22 info: 	Waiting for Closest Point B to be visible in DOM
+2024-06-28 15:26:22 info: 	Getting text content of Closest Distance
+2024-06-28 15:26:22 info: 	Waiting for Closest Distance to be visible in DOM
+2024-06-28 15:26:22 info: 	Getting text content of Furthest Point A
+2024-06-28 15:26:22 info: 	Waiting for Furthest Point A to be visible in DOM
+2024-06-28 15:26:22 info: 	Getting text content of Furthest Point B
+2024-06-28 15:26:22 info: 	Waiting for Furthest Point B to be visible in DOM
+2024-06-28 15:26:22 info: 	Getting text content of Furthest Distance
+2024-06-28 15:26:22 info: 	Waiting for Furthest Distance to be visible in DOM
+2024-06-28 15:26:22 info: 	Getting text content of Average Distance
+2024-06-28 15:26:22 info: 	Waiting for Average Distance to be visible in DOM
+2024-06-28 15:26:22 info: 	##############################################################################
+2024-06-28 15:26:22 info: 	SCENARIO: VALID INPUT WITH MULTIPLE POINTS: 18 - PASSED
+2024-06-28 15:26:22 info: 	##############################################################################
+2024-06-28 15:26:22 info: 	##############################################################################
+2024-06-28 15:26:22 info: 	SCENARIO: VALID INPUT WITH MULTIPLE POINTS: 19 - STARTED
+2024-06-28 15:26:22 info: 	##############################################################################
+2024-06-28 15:26:23 info: 	Navigate to Home page
+2024-06-28 15:26:23 info: 	Entering Coordinate Points as 0.0,1.0 2.0,3.0 4.0,5.0
+2024-06-28 15:26:23 info: 	Entering Coordinate Points as -1.0,-1.0 1.0,1.0 -2.0,-2.0 2.0,2.0
+2024-06-28 15:26:23 info: 	Getting text content of Message
+2024-06-28 15:26:23 info: 	Waiting for Message to be visible in DOM
+2024-06-28 15:26:23 info: 	Clicking on Analyze Button
+2024-06-28 15:26:24 info: 	Getting text content of Message
+2024-06-28 15:26:24 info: 	Waiting for Message to be visible in DOM
+2024-06-28 15:26:24 info: 	Getting text content of Closest Point A
+2024-06-28 15:26:24 info: 	Waiting for Closest Point A to be visible in DOM
+2024-06-28 15:26:24 info: 	Getting text content of Closest Point B
+2024-06-28 15:26:24 info: 	Waiting for Closest Point B to be visible in DOM
+2024-06-28 15:26:24 info: 	Getting text content of Closest Distance
+2024-06-28 15:26:24 info: 	Waiting for Closest Distance to be visible in DOM
+2024-06-28 15:26:24 info: 	Getting text content of Furthest Point A
+2024-06-28 15:26:24 info: 	Waiting for Furthest Point A to be visible in DOM
+2024-06-28 15:26:24 info: 	Getting text content of Furthest Point B
+2024-06-28 15:26:24 info: 	Waiting for Furthest Point B to be visible in DOM
+2024-06-28 15:26:24 info: 	Getting text content of Furthest Distance
+2024-06-28 15:26:24 info: 	Waiting for Furthest Distance to be visible in DOM
+2024-06-28 15:26:24 info: 	Getting text content of Average Distance
+2024-06-28 15:26:24 info: 	Waiting for Average Distance to be visible in DOM
+2024-06-28 15:26:24 info: 	Clicking on Analyze Button
+2024-06-28 15:26:24 info: 	##############################################################################
+2024-06-28 15:26:24 info: 	SCENARIO: VALID INPUT WITH MULTIPLE POINTS: 19 - PASSED
+2024-06-28 15:26:24 info: 	##############################################################################
+2024-06-28 15:26:24 info: 	##############################################################################
+2024-06-28 15:26:24 info: 	SCENARIO: VALID INPUT WITH MULTIPLE POINTS: 20 - STARTED
+2024-06-28 15:26:24 info: 	##############################################################################
+2024-06-28 15:26:24 info: 	Navigate to Home page
+2024-06-28 15:26:25 info: 	Entering Coordinate Points as 0.0,0.0 1.0,1.0 2.0,2.0 3.0,3.0 4.0,4.0 5.0,5.0 6.0,6.0 7.0,7.0 8.0,8.0 9.0,9.0
+2024-06-28 15:26:25 info: 	Getting text content of Message
+2024-06-28 15:26:25 info: 	Waiting for Message to be visible in DOM
+2024-06-28 15:26:25 info: 	Clicking on Analyze Button
+2024-06-28 15:26:25 info: 	Getting text content of Closest Point A
+2024-06-28 15:26:25 info: 	Waiting for Closest Point A to be visible in DOM
+2024-06-28 15:26:25 info: 	Getting text content of Closest Point B
+2024-06-28 15:26:25 info: 	Waiting for Closest Point B to be visible in DOM
+2024-06-28 15:26:25 info: 	Getting text content of Closest Distance
+2024-06-28 15:26:25 info: 	Waiting for Closest Distance to be visible in DOM
+2024-06-28 15:26:25 info: 	Getting text content of Furthest Point A
+2024-06-28 15:26:25 info: 	Waiting for Furthest Point A to be visible in DOM
+2024-06-28 15:26:25 info: 	Getting text content of Furthest Point B
+2024-06-28 15:26:25 info: 	Waiting for Furthest Point B to be visible in DOM
+2024-06-28 15:26:25 info: 	Getting text content of Furthest Distance
+2024-06-28 15:26:25 info: 	Waiting for Furthest Distance to be visible in DOM
+2024-06-28 15:26:25 info: 	Getting text content of Average Distance
+2024-06-28 15:26:25 info: 	Waiting for Average Distance to be visible in DOM
+2024-06-28 15:26:25 info: 	##############################################################################
+2024-06-28 15:26:25 info: 	SCENARIO: VALID INPUT WITH MULTIPLE POINTS: 20 - PASSED
+2024-06-28 15:26:25 info: 	##############################################################################
+2024-06-28 15:26:25 info: 	##############################################################################
+2024-06-28 15:26:25 info: 	SCENARIO: INVALID INPUT FORMAT: 22 - STARTED
+2024-06-28 15:26:25 info: 	##############################################################################
+2024-06-28 15:26:26 info: 	Getting text content of Closest Point A
+2024-06-28 15:26:26 info: 	Waiting for Closest Point A to be visible in DOM
+2024-06-28 15:26:26 info: 	Getting text content of Closest Point B
+2024-06-28 15:26:26 info: 	Waiting for Closest Point B to be visible in DOM
+2024-06-28 15:26:26 info: 	Getting text content of Closest Distance
+2024-06-28 15:26:26 info: 	Waiting for Closest Distance to be visible in DOM
+2024-06-28 15:26:26 info: 	Getting text content of Furthest Point A
+2024-06-28 15:26:26 info: 	Waiting for Furthest Point A to be visible in DOM
+2024-06-28 15:26:26 info: 	Getting text content of Furthest Point B
+2024-06-28 15:26:26 info: 	Waiting for Furthest Point B to be visible in DOM
+2024-06-28 15:26:26 info: 	Getting text content of Furthest Distance
+2024-06-28 15:26:26 info: 	Waiting for Furthest Distance to be visible in DOM
+2024-06-28 15:26:26 info: 	Getting text content of Average Distance
+2024-06-28 15:26:26 info: 	Waiting for Average Distance to be visible in DOM
+2024-06-28 15:26:26 info: 	Navigate to Home page
+2024-06-28 15:26:26 info: 	##############################################################################
+2024-06-28 15:26:26 info: 	SCENARIO: VALID INPUT WITH MULTIPLE POINTS: 16 - PASSED
+2024-06-28 15:26:26 info: 	##############################################################################
+2024-06-28 15:26:26 info: 	##############################################################################
+2024-06-28 15:26:26 info: 	SCENARIO: MORE THAN 10 PAIRS: 26 - STARTED
+2024-06-28 15:26:26 info: 	##############################################################################
+2024-06-28 15:26:26 info: 	Entering Coordinate Points as 0.0,0.0 1.0,1.0 invalid 2.0,2.0
+2024-06-28 15:26:27 info: 	Getting text content of Message
+2024-06-28 15:26:27 info: 	Waiting for Message to be visible in DOM
+2024-06-28 15:26:27 info: 	##############################################################################
+2024-06-28 15:26:27 info: 	SCENARIO: INVALID INPUT FORMAT: 22 - PASSED
+2024-06-28 15:26:27 info: 	##############################################################################
+2024-06-28 15:26:27 info: 	Navigate to Home page
+2024-06-28 15:26:27 info: 	Entering Coordinate Points as 0.0,0.0 1.0,1.0 2.0,2.0 3.0,3.0 4.0,4.0 5.0,5.0 6.0,6.0 7.0,7.0 8.0,8.0 9.0,9.0 10.0,10.0
+2024-06-28 15:26:27 info: 	Getting text content of Message
+2024-06-28 15:26:27 info: 	Waiting for Message to be visible in DOM
+2024-06-28 15:26:27 error: 	More than 10 pairs: 26 - FAILED
+Error: expect(received).toContain(expected) // indexOf
+
+Expected substring: "Too many coordinate points. Maximum allowed is 10 pairs"
+Received string:    "Valid input"
+    at Proxy.<anonymous> (C:\Users\shyam\CoordinatePointsTool\node_modules\playwright\lib\matchers\expect.js:194:37)
+    at CommonPage.<anonymous> (C:\Users\shyam\CoordinatePointsTool\src\web\pages\CommonPage.ts:59:33)
+    at fulfilled (C:\Users\shyam\CoordinatePointsTool\src\web\pages\CommonPage.ts:5:58)
+2024-06-28 15:26:27 info: 	##############################################################################
+2024-06-28 15:26:27 info: 	SCENARIO: MORE THAN 10 PAIRS: 26 - FAILED
+2024-06-28 15:26:27 info: 	##############################################################################
+2024-06-28 15:26:55 info: 	##############################################################################
+2024-06-28 15:26:55 info: 	SCENARIO: VALID INPUT WITH MULTIPLE POINTS: 16 - STARTED
+2024-06-28 15:26:55 info: 	##############################################################################
+2024-06-28 15:26:55 info: 	##############################################################################
+2024-06-28 15:26:55 info: 	SCENARIO: VALID INPUT WITH MULTIPLE POINTS: 17 - STARTED
+2024-06-28 15:26:55 info: 	##############################################################################
+2024-06-28 15:26:55 info: 	Navigate to Home page
+2024-06-28 15:26:56 info: 	Navigate to Home page
+2024-06-28 15:26:56 info: 	Entering Coordinate Points as 0.0,1.0 2.0,3.0 4.0,5.0
+2024-06-28 15:26:56 info: 	Entering Coordinate Points as 0.0,1.0 2.0,3.0 4.0,5.0
+2024-06-28 15:26:56 info: 	Getting text content of Message
+2024-06-28 15:26:56 info: 	Waiting for Message to be visible in DOM
+2024-06-28 15:26:56 info: 	Clicking on Analyze Button
+2024-06-28 15:26:56 info: 	Getting text content of Message
+2024-06-28 15:26:56 info: 	Waiting for Message to be visible in DOM
+2024-06-28 15:26:56 info: 	Clicking on Analyze Button
+2024-06-28 15:26:56 info: 	Getting text content of Closest Point A
+2024-06-28 15:26:56 info: 	Waiting for Closest Point A to be visible in DOM
+2024-06-28 15:26:56 info: 	Getting text content of Closest Point B
+2024-06-28 15:26:56 info: 	Waiting for Closest Point B to be visible in DOM
+2024-06-28 15:26:56 info: 	Getting text content of Closest Distance
+2024-06-28 15:26:56 info: 	Waiting for Closest Distance to be visible in DOM
+2024-06-28 15:26:56 info: 	Getting text content of Furthest Point A
+2024-06-28 15:26:56 info: 	Waiting for Furthest Point A to be visible in DOM
+2024-06-28 15:26:56 info: 	Getting text content of Furthest Point B
+2024-06-28 15:26:56 info: 	Waiting for Furthest Point B to be visible in DOM
+2024-06-28 15:26:56 info: 	Getting text content of Furthest Distance
+2024-06-28 15:26:56 info: 	Waiting for Furthest Distance to be visible in DOM
+2024-06-28 15:26:56 info: 	Getting text content of Average Distance
+2024-06-28 15:26:56 info: 	Getting text content of Closest Point A
+2024-06-28 15:26:56 info: 	Waiting for Closest Point A to be visible in DOM
+2024-06-28 15:26:56 info: 	Waiting for Average Distance to be visible in DOM
+2024-06-28 15:26:56 info: 	Getting text content of Closest Point B
+2024-06-28 15:26:56 info: 	Waiting for Closest Point B to be visible in DOM
+2024-06-28 15:26:56 info: 	Getting text content of Closest Distance
+2024-06-28 15:26:56 info: 	Waiting for Closest Distance to be visible in DOM
+2024-06-28 15:26:56 info: 	Getting text content of Furthest Point A
+2024-06-28 15:26:56 info: 	Waiting for Furthest Point A to be visible in DOM
+2024-06-28 15:26:56 info: 	##############################################################################
+2024-06-28 15:26:56 info: 	SCENARIO: VALID INPUT WITH MULTIPLE POINTS: 16 - PASSED
+2024-06-28 15:26:56 info: 	##############################################################################
+2024-06-28 15:26:56 info: 	##############################################################################
+2024-06-28 15:26:56 info: 	SCENARIO: VALID INPUT WITH MULTIPLE POINTS: 18 - STARTED
+2024-06-28 15:26:56 info: 	##############################################################################
+2024-06-28 15:26:56 info: 	Getting text content of Furthest Point B
+2024-06-28 15:26:56 info: 	Waiting for Furthest Point B to be visible in DOM
+2024-06-28 15:26:57 info: 	Getting text content of Furthest Distance
+2024-06-28 15:26:57 info: 	Waiting for Furthest Distance to be visible in DOM
+2024-06-28 15:26:57 info: 	Getting text content of Average Distance
+2024-06-28 15:26:57 info: 	Waiting for Average Distance to be visible in DOM
+2024-06-28 15:26:57 info: 	Navigate to Home page
+2024-06-28 15:26:57 error: 	Valid input with multiple points: 17 - FAILED
+Error: expect(received).toMatch(expected)
+
+Expected substring: "4.24"
+Received string:    "3.77"
+    at Proxy.<anonymous> (C:\Users\shyam\CoordinatePointsTool\node_modules\playwright\lib\matchers\expect.js:194:37)
+    at CommonPage.<anonymous> (C:\Users\shyam\CoordinatePointsTool\src\web\pages\CommonPage.ts:50:29)
+    at fulfilled (C:\Users\shyam\CoordinatePointsTool\src\web\pages\CommonPage.ts:5:58)
+2024-06-28 15:26:57 info: 	##############################################################################
+2024-06-28 15:26:57 info: 	SCENARIO: VALID INPUT WITH MULTIPLE POINTS: 17 - FAILED
+2024-06-28 15:26:57 info: 	##############################################################################
+2024-06-28 15:26:57 info: 	##############################################################################
+2024-06-28 15:26:57 info: 	SCENARIO: VALID INPUT WITH MULTIPLE POINTS: 19 - STARTED
+2024-06-28 15:26:57 info: 	##############################################################################
+2024-06-28 15:26:57 info: 	Entering Coordinate Points as 1.0,1.0 1.0,1.0 2.0,2.0
+2024-06-28 15:26:57 info: 	Getting text content of Message
+2024-06-28 15:26:57 info: 	Waiting for Message to be visible in DOM
+2024-06-28 15:26:57 info: 	Clicking on Analyze Button
+2024-06-28 15:26:57 info: 	Navigate to Home page
+2024-06-28 15:26:57 info: 	Getting text content of Closest Point A
+2024-06-28 15:26:57 info: 	Waiting for Closest Point A to be visible in DOM
+2024-06-28 15:26:57 info: 	Getting text content of Closest Point B
+2024-06-28 15:26:57 info: 	Waiting for Closest Point B to be visible in DOM
+2024-06-28 15:26:57 info: 	Getting text content of Closest Distance
+2024-06-28 15:26:57 info: 	Waiting for Closest Distance to be visible in DOM
+2024-06-28 15:26:57 info: 	Getting text content of Furthest Point A
+2024-06-28 15:26:57 info: 	Waiting for Furthest Point A to be visible in DOM
+2024-06-28 15:26:57 info: 	Getting text content of Furthest Point B
+2024-06-28 15:26:57 info: 	Waiting for Furthest Point B to be visible in DOM
+2024-06-28 15:26:57 info: 	Getting text content of Furthest Distance
+2024-06-28 15:26:57 info: 	Waiting for Furthest Distance to be visible in DOM
+2024-06-28 15:26:57 info: 	Getting text content of Average Distance
+2024-06-28 15:26:57 info: 	Waiting for Average Distance to be visible in DOM
+2024-06-28 15:26:57 info: 	Entering Coordinate Points as -1.0,-1.0 1.0,1.0 -2.0,-2.0 2.0,2.0
+2024-06-28 15:26:57 info: 	##############################################################################
+2024-06-28 15:26:57 info: 	SCENARIO: VALID INPUT WITH MULTIPLE POINTS: 18 - PASSED
+2024-06-28 15:26:57 info: 	##############################################################################
+2024-06-28 15:26:57 info: 	##############################################################################
+2024-06-28 15:26:57 info: 	SCENARIO: VALID INPUT WITH MULTIPLE POINTS: 20 - STARTED
+2024-06-28 15:26:57 info: 	##############################################################################
+2024-06-28 15:26:58 info: 	Getting text content of Message
+2024-06-28 15:26:58 info: 	Waiting for Message to be visible in DOM
+2024-06-28 15:26:58 info: 	Clicking on Analyze Button
+2024-06-28 15:26:58 info: 	Navigate to Home page
+2024-06-28 15:26:58 info: 	Getting text content of Closest Point A
+2024-06-28 15:26:58 info: 	Waiting for Closest Point A to be visible in DOM
+2024-06-28 15:26:58 info: 	Getting text content of Closest Point B
+2024-06-28 15:26:58 info: 	Waiting for Closest Point B to be visible in DOM
+2024-06-28 15:26:58 info: 	Getting text content of Closest Distance
+2024-06-28 15:26:58 info: 	Waiting for Closest Distance to be visible in DOM
+2024-06-28 15:26:58 info: 	Getting text content of Furthest Point A
+2024-06-28 15:26:58 info: 	Waiting for Furthest Point A to be visible in DOM
+2024-06-28 15:26:58 info: 	Getting text content of Furthest Point B
+2024-06-28 15:26:58 info: 	Waiting for Furthest Point B to be visible in DOM
+2024-06-28 15:26:58 info: 	Getting text content of Furthest Distance
+2024-06-28 15:26:58 info: 	Waiting for Furthest Distance to be visible in DOM
+2024-06-28 15:26:58 info: 	Getting text content of Average Distance
+2024-06-28 15:26:58 info: 	Waiting for Average Distance to be visible in DOM
+2024-06-28 15:26:58 info: 	Entering Coordinate Points as 0.0,0.0 1.0,1.0 2.0,2.0 3.0,3.0 4.0,4.0 5.0,5.0 6.0,6.0 7.0,7.0 8.0,8.0 9.0,9.0
+2024-06-28 15:26:58 info: 	##############################################################################
+2024-06-28 15:26:58 info: 	SCENARIO: VALID INPUT WITH MULTIPLE POINTS: 19 - PASSED
+2024-06-28 15:26:58 info: 	##############################################################################
+2024-06-28 15:26:58 info: 	##############################################################################
+2024-06-28 15:26:58 info: 	SCENARIO: INVALID INPUT FORMAT: 22 - STARTED
+2024-06-28 15:26:58 info: 	##############################################################################
+2024-06-28 15:26:58 info: 	Getting text content of Message
+2024-06-28 15:26:58 info: 	Waiting for Message to be visible in DOM
+2024-06-28 15:26:58 info: 	Clicking on Analyze Button
+2024-06-28 15:26:58 info: 	Navigate to Home page
+2024-06-28 15:26:58 info: 	Getting text content of Closest Point A
+2024-06-28 15:26:58 info: 	Waiting for Closest Point A to be visible in DOM
+2024-06-28 15:26:58 info: 	Getting text content of Closest Point B
+2024-06-28 15:26:58 info: 	Waiting for Closest Point B to be visible in DOM
+2024-06-28 15:26:58 info: 	Getting text content of Closest Distance
+2024-06-28 15:26:58 info: 	Waiting for Closest Distance to be visible in DOM
+2024-06-28 15:26:58 info: 	Getting text content of Furthest Point A
+2024-06-28 15:26:58 info: 	Waiting for Furthest Point A to be visible in DOM
+2024-06-28 15:26:58 info: 	Getting text content of Furthest Point B
+2024-06-28 15:26:58 info: 	Waiting for Furthest Point B to be visible in DOM
+2024-06-28 15:26:58 info: 	Getting text content of Furthest Distance
+2024-06-28 15:26:58 info: 	Waiting for Furthest Distance to be visible in DOM
+2024-06-28 15:26:58 info: 	Getting text content of Average Distance
+2024-06-28 15:26:58 info: 	Entering Coordinate Points as 0.0,0.0 1.0,1.0 invalid 2.0,2.0
+2024-06-28 15:26:58 info: 	Waiting for Average Distance to be visible in DOM
+2024-06-28 15:26:58 info: 	##############################################################################
+2024-06-28 15:26:58 info: 	SCENARIO: VALID INPUT WITH MULTIPLE POINTS: 20 - PASSED
+2024-06-28 15:26:58 info: 	##############################################################################
+2024-06-28 15:26:58 info: 	##############################################################################
+2024-06-28 15:26:58 info: 	SCENARIO: MORE THAN 10 PAIRS: 26 - STARTED
+2024-06-28 15:26:58 info: 	##############################################################################
+2024-06-28 15:26:59 info: 	Getting text content of Message
+2024-06-28 15:26:59 info: 	Waiting for Message to be visible in DOM
+2024-06-28 15:26:59 info: 	##############################################################################
+2024-06-28 15:26:59 info: 	SCENARIO: INVALID INPUT FORMAT: 22 - PASSED
+2024-06-28 15:26:59 info: 	##############################################################################
+2024-06-28 15:26:59 info: 	Navigate to Home page
+2024-06-28 15:26:59 info: 	Entering Coordinate Points as 0.0,0.0 1.0,1.0 2.0,2.0 3.0,3.0 4.0,4.0 5.0,5.0 6.0,6.0 7.0,7.0 8.0,8.0 9.0,9.0 10.0,10.0
+2024-06-28 15:26:59 info: 	Getting text content of Message
+2024-06-28 15:26:59 info: 	Waiting for Message to be visible in DOM
+2024-06-28 15:26:59 error: 	More than 10 pairs: 26 - FAILED
+Error: expect(received).toContain(expected) // indexOf
+
+Expected substring: "Too many coordinate points. Maximum allowed is 10 pairs"
+Received string:    "Valid input"
+    at Proxy.<anonymous> (C:\Users\shyam\CoordinatePointsTool\node_modules\playwright\lib\matchers\expect.js:194:37)
+    at CommonPage.<anonymous> (C:\Users\shyam\CoordinatePointsTool\src\web\pages\CommonPage.ts:59:33)
+    at fulfilled (C:\Users\shyam\CoordinatePointsTool\src\web\pages\CommonPage.ts:5:58)
+2024-06-28 15:26:59 info: 	##############################################################################
+2024-06-28 15:26:59 info: 	SCENARIO: MORE THAN 10 PAIRS: 26 - FAILED
+2024-06-28 15:26:59 info: 	##############################################################################
+2024-06-28 15:27:40 info: 	##############################################################################
+2024-06-28 15:27:40 info: 	SCENARIO: VALID INPUT WITH MULTIPLE POINTS: 16 - STARTED
+2024-06-28 15:27:40 info: 	##############################################################################
+2024-06-28 15:27:40 info: 	Navigate to Home page
+2024-06-28 15:27:41 info: 	##############################################################################
+2024-06-28 15:27:41 info: 	SCENARIO: VALID INPUT WITH MULTIPLE POINTS: 17 - STARTED
+2024-06-28 15:27:41 info: 	##############################################################################
+2024-06-28 15:27:41 info: 	Entering Coordinate Points as 0.0,1.0 2.0,3.0 4.0,5.0
+2024-06-28 15:27:41 info: 	Navigate to Home page
+2024-06-28 15:27:41 info: 	Getting text content of Message
+2024-06-28 15:27:41 info: 	Waiting for Message to be visible in DOM
+2024-06-28 15:27:41 info: 	Clicking on Analyze Button
+2024-06-28 15:27:41 info: 	Getting text content of Closest Point A
+2024-06-28 15:27:41 info: 	Entering Coordinate Points as 0.0,1.0 2.0,3.0 4.0,5.0
+2024-06-28 15:27:41 info: 	Waiting for Closest Point A to be visible in DOM
+2024-06-28 15:27:41 info: 	Getting text content of Closest Point B
+2024-06-28 15:27:41 info: 	Waiting for Closest Point B to be visible in DOM
+2024-06-28 15:27:41 info: 	Getting text content of Closest Distance
+2024-06-28 15:27:41 info: 	Waiting for Closest Distance to be visible in DOM
+2024-06-28 15:27:41 info: 	Getting text content of Furthest Point A
+2024-06-28 15:27:41 info: 	Waiting for Furthest Point A to be visible in DOM
+2024-06-28 15:27:41 info: 	Getting text content of Message
+2024-06-28 15:27:41 info: 	Getting text content of Furthest Point B
+2024-06-28 15:27:41 info: 	Waiting for Furthest Point B to be visible in DOM
+2024-06-28 15:27:41 info: 	Waiting for Message to be visible in DOM
+2024-06-28 15:27:41 info: 	Getting text content of Furthest Distance
+2024-06-28 15:27:41 info: 	Waiting for Furthest Distance to be visible in DOM
+2024-06-28 15:27:41 info: 	Clicking on Analyze Button
+2024-06-28 15:27:42 info: 	Getting text content of Average Distance
+2024-06-28 15:27:42 info: 	Waiting for Average Distance to be visible in DOM
+2024-06-28 15:27:42 info: 	##############################################################################
+2024-06-28 15:27:42 info: 	SCENARIO: VALID INPUT WITH MULTIPLE POINTS: 16 - PASSED
+2024-06-28 15:27:42 info: 	##############################################################################
+2024-06-28 15:27:42 info: 	##############################################################################
+2024-06-28 15:27:42 info: 	SCENARIO: VALID INPUT WITH MULTIPLE POINTS: 18 - STARTED
+2024-06-28 15:27:42 info: 	##############################################################################
+2024-06-28 15:27:42 info: 	Getting text content of Closest Point A
+2024-06-28 15:27:42 info: 	Waiting for Closest Point A to be visible in DOM
+2024-06-28 15:27:42 info: 	Getting text content of Closest Point B
+2024-06-28 15:27:42 info: 	Waiting for Closest Point B to be visible in DOM
+2024-06-28 15:27:42 info: 	Getting text content of Closest Distance
+2024-06-28 15:27:42 info: 	Waiting for Closest Distance to be visible in DOM
+2024-06-28 15:27:42 info: 	Getting text content of Furthest Point A
+2024-06-28 15:27:42 info: 	Waiting for Furthest Point A to be visible in DOM
+2024-06-28 15:27:42 info: 	Getting text content of Furthest Point B
+2024-06-28 15:27:42 info: 	Waiting for Furthest Point B to be visible in DOM
+2024-06-28 15:27:42 info: 	Getting text content of Furthest Distance
+2024-06-28 15:27:42 info: 	Waiting for Furthest Distance to be visible in DOM
+2024-06-28 15:27:42 info: 	Getting text content of Average Distance
+2024-06-28 15:27:42 info: 	Waiting for Average Distance to be visible in DOM
+2024-06-28 15:27:42 info: 	Navigate to Home page
+2024-06-28 15:27:42 error: 	Valid input with multiple points: 17 - FAILED
+Error: expect(received).toMatch(expected)
+
+Expected substring: "4.24"
+Received string:    "3.77"
+    at Proxy.<anonymous> (C:\Users\shyam\CoordinatePointsTool\node_modules\playwright\lib\matchers\expect.js:194:37)
+    at CommonPage.<anonymous> (C:\Users\shyam\CoordinatePointsTool\src\web\pages\CommonPage.ts:50:29)
+    at fulfilled (C:\Users\shyam\CoordinatePointsTool\src\web\pages\CommonPage.ts:5:58)
+2024-06-28 15:27:42 info: 	Entering Coordinate Points as 1.0,1.0 1.0,1.0 2.0,2.0
+2024-06-28 15:27:42 info: 	##############################################################################
+2024-06-28 15:27:42 info: 	SCENARIO: VALID INPUT WITH MULTIPLE POINTS: 17 - FAILED
+2024-06-28 15:27:42 info: 	##############################################################################
+2024-06-28 15:27:42 info: 	##############################################################################
+2024-06-28 15:27:42 info: 	SCENARIO: VALID INPUT WITH MULTIPLE POINTS: 19 - STARTED
+2024-06-28 15:27:42 info: 	##############################################################################
+2024-06-28 15:27:42 info: 	Getting text content of Message
+2024-06-28 15:27:42 info: 	Waiting for Message to be visible in DOM
+2024-06-28 15:27:42 info: 	Clicking on Analyze Button
+2024-06-28 15:27:42 info: 	Navigate to Home page
+2024-06-28 15:27:43 info: 	Getting text content of Closest Point A
+2024-06-28 15:27:43 info: 	Waiting for Closest Point A to be visible in DOM
+2024-06-28 15:27:43 info: 	Getting text content of Closest Point B
+2024-06-28 15:27:43 info: 	Waiting for Closest Point B to be visible in DOM
+2024-06-28 15:27:43 info: 	Getting text content of Closest Distance
+2024-06-28 15:27:43 info: 	Waiting for Closest Distance to be visible in DOM
+2024-06-28 15:27:43 info: 	Getting text content of Furthest Point A
+2024-06-28 15:27:43 info: 	Waiting for Furthest Point A to be visible in DOM
+2024-06-28 15:27:43 info: 	Getting text content of Furthest Point B
+2024-06-28 15:27:43 info: 	Waiting for Furthest Point B to be visible in DOM
+2024-06-28 15:27:43 info: 	Getting text content of Furthest Distance
+2024-06-28 15:27:43 info: 	Waiting for Furthest Distance to be visible in DOM
+2024-06-28 15:27:43 info: 	Getting text content of Average Distance
+2024-06-28 15:27:43 info: 	Waiting for Average Distance to be visible in DOM
+2024-06-28 15:27:43 info: 	Entering Coordinate Points as -1.0,-1.0 1.0,1.0 -2.0,-2.0 2.0,2.0
+2024-06-28 15:27:43 info: 	##############################################################################
+2024-06-28 15:27:43 info: 	SCENARIO: VALID INPUT WITH MULTIPLE POINTS: 18 - PASSED
+2024-06-28 15:27:43 info: 	##############################################################################
+2024-06-28 15:27:43 info: 	##############################################################################
+2024-06-28 15:27:43 info: 	SCENARIO: VALID INPUT WITH MULTIPLE POINTS: 20 - STARTED
+2024-06-28 15:27:43 info: 	##############################################################################
+2024-06-28 15:27:43 info: 	Getting text content of Message
+2024-06-28 15:27:43 info: 	Waiting for Message to be visible in DOM
+2024-06-28 15:27:43 info: 	Clicking on Analyze Button
+2024-06-28 15:27:43 info: 	Navigate to Home page
+2024-06-28 15:27:43 info: 	Getting text content of Closest Point A
+2024-06-28 15:27:43 info: 	Waiting for Closest Point A to be visible in DOM
+2024-06-28 15:27:43 info: 	Getting text content of Closest Point B
+2024-06-28 15:27:43 info: 	Waiting for Closest Point B to be visible in DOM
+2024-06-28 15:27:43 info: 	Getting text content of Closest Distance
+2024-06-28 15:27:43 info: 	Waiting for Closest Distance to be visible in DOM
+2024-06-28 15:27:43 info: 	Getting text content of Furthest Point A
+2024-06-28 15:27:43 info: 	Waiting for Furthest Point A to be visible in DOM
+2024-06-28 15:27:43 info: 	Getting text content of Furthest Point B
+2024-06-28 15:27:43 info: 	Waiting for Furthest Point B to be visible in DOM
+2024-06-28 15:27:43 info: 	Getting text content of Furthest Distance
+2024-06-28 15:27:43 info: 	Waiting for Furthest Distance to be visible in DOM
+2024-06-28 15:27:43 info: 	Getting text content of Average Distance
+2024-06-28 15:27:43 info: 	Waiting for Average Distance to be visible in DOM
+2024-06-28 15:27:43 info: 	Entering Coordinate Points as 0.0,0.0 1.0,1.0 2.0,2.0 3.0,3.0 4.0,4.0 5.0,5.0 6.0,6.0 7.0,7.0 8.0,8.0 9.0,9.0
+2024-06-28 15:27:43 info: 	##############################################################################
+2024-06-28 15:27:43 info: 	SCENARIO: VALID INPUT WITH MULTIPLE POINTS: 19 - PASSED
+2024-06-28 15:27:43 info: 	##############################################################################
+2024-06-28 15:27:43 info: 	##############################################################################
+2024-06-28 15:27:43 info: 	SCENARIO: INVALID INPUT FORMAT: 22 - STARTED
+2024-06-28 15:27:43 info: 	##############################################################################
+2024-06-28 15:27:43 info: 	Getting text content of Message
+2024-06-28 15:27:43 info: 	Waiting for Message to be visible in DOM
+2024-06-28 15:27:43 info: 	Clicking on Analyze Button
+2024-06-28 15:27:44 info: 	Navigate to Home page
+2024-06-28 15:27:44 info: 	Getting text content of Closest Point A
+2024-06-28 15:27:44 info: 	Waiting for Closest Point A to be visible in DOM
+2024-06-28 15:27:44 info: 	Getting text content of Closest Point B
+2024-06-28 15:27:44 info: 	Waiting for Closest Point B to be visible in DOM
+2024-06-28 15:27:44 info: 	Getting text content of Closest Distance
+2024-06-28 15:27:44 info: 	Waiting for Closest Distance to be visible in DOM
+2024-06-28 15:27:44 info: 	Getting text content of Furthest Point A
+2024-06-28 15:27:44 info: 	Waiting for Furthest Point A to be visible in DOM
+2024-06-28 15:27:44 info: 	Getting text content of Furthest Point B
+2024-06-28 15:27:44 info: 	Waiting for Furthest Point B to be visible in DOM
+2024-06-28 15:27:44 info: 	Getting text content of Furthest Distance
+2024-06-28 15:27:44 info: 	Waiting for Furthest Distance to be visible in DOM
+2024-06-28 15:27:44 info: 	Getting text content of Average Distance
+2024-06-28 15:27:44 info: 	Waiting for Average Distance to be visible in DOM
+2024-06-28 15:27:44 info: 	Entering Coordinate Points as 0.0,0.0 1.0,1.0 invalid 2.0,2.0
+2024-06-28 15:27:44 info: 	##############################################################################
+2024-06-28 15:27:44 info: 	SCENARIO: VALID INPUT WITH MULTIPLE POINTS: 20 - PASSED
+2024-06-28 15:27:44 info: 	##############################################################################
+2024-06-28 15:27:44 info: 	##############################################################################
+2024-06-28 15:27:44 info: 	SCENARIO: MORE THAN 10 PAIRS: 26 - STARTED
+2024-06-28 15:27:44 info: 	##############################################################################
+2024-06-28 15:27:44 info: 	Getting text content of Message
+2024-06-28 15:27:44 info: 	Waiting for Message to be visible in DOM
+2024-06-28 15:27:44 info: 	##############################################################################
+2024-06-28 15:27:44 info: 	SCENARIO: INVALID INPUT FORMAT: 22 - PASSED
+2024-06-28 15:27:44 info: 	##############################################################################
+2024-06-28 15:27:44 info: 	Navigate to Home page
+2024-06-28 15:27:44 info: 	Entering Coordinate Points as 0.0,0.0 1.0,1.0 2.0,2.0 3.0,3.0 4.0,4.0 5.0,5.0 6.0,6.0 7.0,7.0 8.0,8.0 9.0,9.0 10.0,10.0
+2024-06-28 15:27:45 info: 	Getting text content of Message
+2024-06-28 15:27:45 info: 	Waiting for Message to be visible in DOM
+2024-06-28 15:27:45 error: 	More than 10 pairs: 26 - FAILED
+Error: expect(received).toContain(expected) // indexOf
+
+Expected substring: "Too many coordinate points. Maximum allowed is 10 pairs"
+Received string:    "Valid input"
+    at Proxy.<anonymous> (C:\Users\shyam\CoordinatePointsTool\node_modules\playwright\lib\matchers\expect.js:194:37)
+    at CommonPage.<anonymous> (C:\Users\shyam\CoordinatePointsTool\src\web\pages\CommonPage.ts:59:33)
+    at fulfilled (C:\Users\shyam\CoordinatePointsTool\src\web\pages\CommonPage.ts:5:58)
+2024-06-28 15:27:45 info: 	##############################################################################
+2024-06-28 15:27:45 info: 	SCENARIO: MORE THAN 10 PAIRS: 26 - FAILED
+2024-06-28 15:27:45 info: 	##############################################################################
+2024-06-28 15:28:39 info: 	##############################################################################
+2024-06-28 15:28:39 info: 	SCENARIO: VALID INPUT WITH MULTIPLE POINTS: 16 - STARTED
+2024-06-28 15:28:39 info: 	##############################################################################
+2024-06-28 15:28:40 info: 	Navigate to Home page
+2024-06-28 15:28:40 info: 	##############################################################################
+2024-06-28 15:28:40 info: 	SCENARIO: VALID INPUT WITH MULTIPLE POINTS: 17 - STARTED
+2024-06-28 15:28:40 info: 	##############################################################################
+2024-06-28 15:28:40 info: 	Entering Coordinate Points as 0.0,1.0 2.0,3.0 4.0,5.0
+2024-06-28 15:28:40 info: 	Navigate to Home page
+2024-06-28 15:28:40 info: 	Getting text content of Message
+2024-06-28 15:28:40 info: 	Waiting for Message to be visible in DOM
+2024-06-28 15:28:40 info: 	Clicking on Analyze Button
+2024-06-28 15:28:41 info: 	Getting text content of Closest Point A
+2024-06-28 15:28:41 info: 	Waiting for Closest Point A to be visible in DOM
+2024-06-28 15:28:41 info: 	Getting text content of Closest Point B
+2024-06-28 15:28:41 info: 	Waiting for Closest Point B to be visible in DOM
+2024-06-28 15:28:41 info: 	Entering Coordinate Points as 0.0,1.0 2.0,3.0 4.0,5.0
+2024-06-28 15:28:41 info: 	Getting text content of Closest Distance
+2024-06-28 15:28:41 info: 	Waiting for Closest Distance to be visible in DOM
+2024-06-28 15:28:41 info: 	Getting text content of Furthest Point A
+2024-06-28 15:28:41 info: 	Waiting for Furthest Point A to be visible in DOM
+2024-06-28 15:28:41 info: 	Getting text content of Furthest Point B
+2024-06-28 15:28:41 info: 	Waiting for Furthest Point B to be visible in DOM
+2024-06-28 15:28:41 info: 	Getting text content of Furthest Distance
+2024-06-28 15:28:41 info: 	Waiting for Furthest Distance to be visible in DOM
+2024-06-28 15:28:41 info: 	Getting text content of Average Distance
+2024-06-28 15:28:41 info: 	Waiting for Average Distance to be visible in DOM
+2024-06-28 15:28:41 info: 	Getting text content of Message
+2024-06-28 15:28:41 info: 	Waiting for Message to be visible in DOM
+2024-06-28 15:28:41 info: 	##############################################################################
+2024-06-28 15:28:41 info: 	SCENARIO: VALID INPUT WITH MULTIPLE POINTS: 16 - PASSED
+2024-06-28 15:28:41 info: 	##############################################################################
+2024-06-28 15:28:41 info: 	##############################################################################
+2024-06-28 15:28:41 info: 	SCENARIO: VALID INPUT WITH MULTIPLE POINTS: 18 - STARTED
+2024-06-28 15:28:41 info: 	##############################################################################
+2024-06-28 15:28:41 info: 	Clicking on Analyze Button
+2024-06-28 15:28:41 info: 	Getting text content of Closest Point A
+2024-06-28 15:28:41 info: 	Waiting for Closest Point A to be visible in DOM
+2024-06-28 15:28:41 info: 	Getting text content of Closest Point B
+2024-06-28 15:28:41 info: 	Waiting for Closest Point B to be visible in DOM
+2024-06-28 15:28:41 info: 	Getting text content of Closest Distance
+2024-06-28 15:28:41 info: 	Waiting for Closest Distance to be visible in DOM
+2024-06-28 15:28:41 info: 	Getting text content of Furthest Point A
+2024-06-28 15:28:41 info: 	Waiting for Furthest Point A to be visible in DOM
+2024-06-28 15:28:41 info: 	Getting text content of Furthest Point B
+2024-06-28 15:28:41 info: 	Waiting for Furthest Point B to be visible in DOM
+2024-06-28 15:28:41 info: 	Navigate to Home page
+2024-06-28 15:28:41 info: 	Getting text content of Furthest Distance
+2024-06-28 15:28:41 info: 	Waiting for Furthest Distance to be visible in DOM
+2024-06-28 15:28:41 info: 	Getting text content of Average Distance
+2024-06-28 15:28:41 info: 	Waiting for Average Distance to be visible in DOM
+2024-06-28 15:28:41 info: 	Entering Coordinate Points as 1.0,1.0 1.0,1.0 2.0,2.0
+2024-06-28 15:28:41 error: 	Valid input with multiple points: 17 - FAILED
+Error: expect(received).toMatch(expected)
+
+Expected substring: "4.24"
+Received string:    "3.77"
+    at Proxy.<anonymous> (C:\Users\shyam\CoordinatePointsTool\node_modules\playwright\lib\matchers\expect.js:194:37)
+    at CommonPage.<anonymous> (C:\Users\shyam\CoordinatePointsTool\src\web\pages\CommonPage.ts:50:29)
+    at fulfilled (C:\Users\shyam\CoordinatePointsTool\src\web\pages\CommonPage.ts:5:58)
+2024-06-28 15:28:41 info: 	Getting text content of Message
+2024-06-28 15:28:41 info: 	Waiting for Message to be visible in DOM
+2024-06-28 15:28:42 info: 	##############################################################################
+2024-06-28 15:28:42 info: 	SCENARIO: VALID INPUT WITH MULTIPLE POINTS: 17 - FAILED
+2024-06-28 15:28:42 info: 	##############################################################################
+2024-06-28 15:28:42 info: 	##############################################################################
+2024-06-28 15:28:42 info: 	Clicking on Analyze Button
+2024-06-28 15:28:42 info: 	SCENARIO: VALID INPUT WITH MULTIPLE POINTS: 19 - STARTED
+2024-06-28 15:28:42 info: 	##############################################################################
+2024-06-28 15:28:42 info: 	Getting text content of Closest Point A
+2024-06-28 15:28:42 info: 	Waiting for Closest Point A to be visible in DOM
+2024-06-28 15:28:42 info: 	Getting text content of Closest Point B
+2024-06-28 15:28:42 info: 	Waiting for Closest Point B to be visible in DOM
+2024-06-28 15:28:42 info: 	Getting text content of Closest Distance
+2024-06-28 15:28:42 info: 	Waiting for Closest Distance to be visible in DOM
+2024-06-28 15:28:42 info: 	Getting text content of Furthest Point A
+2024-06-28 15:28:42 info: 	Waiting for Furthest Point A to be visible in DOM
+2024-06-28 15:28:42 info: 	Getting text content of Furthest Point B
+2024-06-28 15:28:42 info: 	Waiting for Furthest Point B to be visible in DOM
+2024-06-28 15:28:42 info: 	Getting text content of Furthest Distance
+2024-06-28 15:28:42 info: 	Waiting for Furthest Distance to be visible in DOM
+2024-06-28 15:28:42 info: 	Getting text content of Average Distance
+2024-06-28 15:28:42 info: 	Waiting for Average Distance to be visible in DOM
+2024-06-28 15:28:42 info: 	Navigate to Home page
+2024-06-28 15:28:42 info: 	##############################################################################
+2024-06-28 15:28:42 info: 	SCENARIO: VALID INPUT WITH MULTIPLE POINTS: 18 - PASSED
+2024-06-28 15:28:42 info: 	##############################################################################
+2024-06-28 15:28:42 info: 	##############################################################################
+2024-06-28 15:28:42 info: 	SCENARIO: VALID INPUT WITH MULTIPLE POINTS: 20 - STARTED
+2024-06-28 15:28:42 info: 	##############################################################################
+2024-06-28 15:28:42 info: 	Entering Coordinate Points as -1.0,-1.0 1.0,1.0 -2.0,-2.0 2.0,2.0
+2024-06-28 15:28:42 info: 	Navigate to Home page
+2024-06-28 15:28:42 info: 	Getting text content of Message
+2024-06-28 15:28:42 info: 	Waiting for Message to be visible in DOM
+2024-06-28 15:28:42 info: 	Clicking on Analyze Button
+2024-06-28 15:28:42 info: 	Getting text content of Closest Point A
+2024-06-28 15:28:42 info: 	Waiting for Closest Point A to be visible in DOM
+2024-06-28 15:28:42 info: 	Getting text content of Closest Point B
+2024-06-28 15:28:42 info: 	Waiting for Closest Point B to be visible in DOM
+2024-06-28 15:28:42 info: 	Getting text content of Closest Distance
+2024-06-28 15:28:42 info: 	Waiting for Closest Distance to be visible in DOM
+2024-06-28 15:28:42 info: 	Getting text content of Furthest Point A
+2024-06-28 15:28:42 info: 	Waiting for Furthest Point A to be visible in DOM
+2024-06-28 15:28:42 info: 	Getting text content of Furthest Point B
+2024-06-28 15:28:42 info: 	Waiting for Furthest Point B to be visible in DOM
+2024-06-28 15:28:42 info: 	Getting text content of Furthest Distance
+2024-06-28 15:28:42 info: 	Waiting for Furthest Distance to be visible in DOM
+2024-06-28 15:28:43 info: 	Getting text content of Average Distance
+2024-06-28 15:28:43 info: 	Waiting for Average Distance to be visible in DOM
+2024-06-28 15:28:43 info: 	Entering Coordinate Points as 0.0,0.0 1.0,1.0 2.0,2.0 3.0,3.0 4.0,4.0 5.0,5.0 6.0,6.0 7.0,7.0 8.0,8.0 9.0,9.0
+2024-06-28 15:28:43 info: 	##############################################################################
+2024-06-28 15:28:43 info: 	SCENARIO: VALID INPUT WITH MULTIPLE POINTS: 19 - PASSED
+2024-06-28 15:28:43 info: 	##############################################################################
+2024-06-28 15:28:43 info: 	##############################################################################
+2024-06-28 15:28:43 info: 	SCENARIO: INVALID INPUT FORMAT: 22 - STARTED
+2024-06-28 15:28:43 info: 	##############################################################################
+2024-06-28 15:28:43 info: 	Getting text content of Message
+2024-06-28 15:28:43 info: 	Waiting for Message to be visible in DOM
+2024-06-28 15:28:43 info: 	Clicking on Analyze Button
+2024-06-28 15:28:43 info: 	Navigate to Home page
+2024-06-28 15:28:43 info: 	Getting text content of Closest Point A
+2024-06-28 15:28:43 info: 	Waiting for Closest Point A to be visible in DOM
+2024-06-28 15:28:43 info: 	Getting text content of Closest Point B
+2024-06-28 15:28:43 info: 	Waiting for Closest Point B to be visible in DOM
+2024-06-28 15:28:43 info: 	Getting text content of Closest Distance
+2024-06-28 15:28:43 info: 	Waiting for Closest Distance to be visible in DOM
+2024-06-28 15:28:43 info: 	Getting text content of Furthest Point A
+2024-06-28 15:28:43 info: 	Waiting for Furthest Point A to be visible in DOM
+2024-06-28 15:28:43 info: 	Getting text content of Furthest Point B
+2024-06-28 15:28:43 info: 	Waiting for Furthest Point B to be visible in DOM
+2024-06-28 15:28:43 info: 	Getting text content of Furthest Distance
+2024-06-28 15:28:43 info: 	Waiting for Furthest Distance to be visible in DOM
+2024-06-28 15:28:43 info: 	Getting text content of Average Distance
+2024-06-28 15:28:43 info: 	Waiting for Average Distance to be visible in DOM
+2024-06-28 15:28:43 info: 	Entering Coordinate Points as 0.0,0.0 1.0,1.0 invalid 2.0,2.0
+2024-06-28 15:28:43 info: 	##############################################################################
+2024-06-28 15:28:43 info: 	SCENARIO: VALID INPUT WITH MULTIPLE POINTS: 20 - PASSED
+2024-06-28 15:28:43 info: 	##############################################################################
+2024-06-28 15:28:43 info: 	##############################################################################
+2024-06-28 15:28:43 info: 	SCENARIO: MORE THAN 10 PAIRS: 26 - STARTED
+2024-06-28 15:28:43 info: 	##############################################################################
+2024-06-28 15:28:43 info: 	Getting text content of Message
+2024-06-28 15:28:43 info: 	Waiting for Message to be visible in DOM
+2024-06-28 15:28:43 info: 	##############################################################################
+2024-06-28 15:28:43 info: 	SCENARIO: INVALID INPUT FORMAT: 22 - PASSED
+2024-06-28 15:28:43 info: 	##############################################################################
+2024-06-28 15:28:43 info: 	Navigate to Home page
+2024-06-28 15:28:44 info: 	Entering Coordinate Points as 0.0,0.0 1.0,1.0 2.0,2.0 3.0,3.0 4.0,4.0 5.0,5.0 6.0,6.0 7.0,7.0 8.0,8.0 9.0,9.0 10.0,10.0
+2024-06-28 15:28:44 info: 	Getting text content of Message
+2024-06-28 15:28:44 info: 	Waiting for Message to be visible in DOM
+2024-06-28 15:28:44 error: 	More than 10 pairs: 26 - FAILED
+Error: expect(received).toContain(expected) // indexOf
+
+Expected substring: "Too many coordinate points. Maximum allowed is 10 pairs"
+Received string:    "Valid input"
+    at Proxy.<anonymous> (C:\Users\shyam\CoordinatePointsTool\node_modules\playwright\lib\matchers\expect.js:194:37)
+    at CommonPage.<anonymous> (C:\Users\shyam\CoordinatePointsTool\src\web\pages\CommonPage.ts:59:33)
+    at fulfilled (C:\Users\shyam\CoordinatePointsTool\src\web\pages\CommonPage.ts:5:58)
+2024-06-28 15:28:44 info: 	##############################################################################
+2024-06-28 15:28:44 info: 	SCENARIO: MORE THAN 10 PAIRS: 26 - FAILED
+2024-06-28 15:28:44 info: 	##############################################################################
+2024-06-28 15:29:47 info: 	##############################################################################
+2024-06-28 15:29:47 info: 	SCENARIO: VALID INPUT WITH MULTIPLE POINTS: 16 - STARTED
+2024-06-28 15:29:47 info: 	##############################################################################
+2024-06-28 15:29:48 info: 	Navigate to Home page
+2024-06-28 15:29:48 info: 	##############################################################################
+2024-06-28 15:29:48 info: 	SCENARIO: VALID INPUT WITH MULTIPLE POINTS: 17 - STARTED
+2024-06-28 15:29:48 info: 	##############################################################################
+2024-06-28 15:29:48 info: 	Entering Coordinate Points as 0.0,1.0 2.0,3.0 4.0,5.0
+2024-06-28 15:29:48 info: 	Getting text content of Message
+2024-06-28 15:29:48 info: 	Waiting for Message to be visible in DOM
+2024-06-28 15:29:48 info: 	Clicking on Analyze Button
+2024-06-28 15:29:48 info: 	Navigate to Home page
+2024-06-28 15:29:49 info: 	Getting text content of Closest Point A
+2024-06-28 15:29:49 info: 	Waiting for Closest Point A to be visible in DOM
+2024-06-28 15:29:49 info: 	Getting text content of Closest Point B
+2024-06-28 15:29:49 info: 	Waiting for Closest Point B to be visible in DOM
+2024-06-28 15:29:49 info: 	Entering Coordinate Points as 0.0,1.0 2.0,3.0 4.0,5.0
+2024-06-28 15:29:49 info: 	Getting text content of Closest Distance
+2024-06-28 15:29:49 info: 	Waiting for Closest Distance to be visible in DOM
+2024-06-28 15:29:49 info: 	Getting text content of Furthest Point A
+2024-06-28 15:29:49 info: 	Waiting for Furthest Point A to be visible in DOM
+2024-06-28 15:29:49 info: 	Getting text content of Furthest Point B
+2024-06-28 15:29:49 info: 	Waiting for Furthest Point B to be visible in DOM
+2024-06-28 15:29:49 info: 	Getting text content of Furthest Distance
+2024-06-28 15:29:49 info: 	Waiting for Furthest Distance to be visible in DOM
+2024-06-28 15:29:49 info: 	Getting text content of Average Distance
+2024-06-28 15:29:49 info: 	Waiting for Average Distance to be visible in DOM
+2024-06-28 15:29:49 info: 	##############################################################################
+2024-06-28 15:29:49 info: 	SCENARIO: VALID INPUT WITH MULTIPLE POINTS: 16 - PASSED
+2024-06-28 15:29:49 info: 	##############################################################################
+2024-06-28 15:29:49 info: 	##############################################################################
+2024-06-28 15:29:49 info: 	SCENARIO: VALID INPUT WITH MULTIPLE POINTS: 18 - STARTED
+2024-06-28 15:29:49 info: 	##############################################################################
+2024-06-28 15:29:49 info: 	Getting text content of Message
+2024-06-28 15:29:49 info: 	Waiting for Message to be visible in DOM
+2024-06-28 15:29:49 info: 	Clicking on Analyze Button
+2024-06-28 15:29:49 info: 	Getting text content of Closest Point A
+2024-06-28 15:29:49 info: 	Waiting for Closest Point A to be visible in DOM
+2024-06-28 15:29:49 info: 	Navigate to Home page
+2024-06-28 15:29:49 info: 	Getting text content of Closest Point B
+2024-06-28 15:29:49 info: 	Waiting for Closest Point B to be visible in DOM
+2024-06-28 15:29:49 info: 	Getting text content of Closest Distance
+2024-06-28 15:29:49 info: 	Waiting for Closest Distance to be visible in DOM
+2024-06-28 15:29:49 info: 	Getting text content of Furthest Point A
+2024-06-28 15:29:49 info: 	Waiting for Furthest Point A to be visible in DOM
+2024-06-28 15:29:49 info: 	Getting text content of Furthest Point B
+2024-06-28 15:29:49 info: 	Waiting for Furthest Point B to be visible in DOM
+2024-06-28 15:29:49 info: 	Getting text content of Furthest Distance
+2024-06-28 15:29:49 info: 	Waiting for Furthest Distance to be visible in DOM
+2024-06-28 15:29:49 info: 	Getting text content of Average Distance
+2024-06-28 15:29:49 info: 	Waiting for Average Distance to be visible in DOM
+2024-06-28 15:29:49 info: 	Entering Coordinate Points as 1.0,1.0 1.0,1.0 2.0,2.0
+2024-06-28 15:29:49 error: 	Valid input with multiple points: 17 - FAILED
+Error: expect(received).toMatch(expected)
+
+Expected substring: "4.24"
+Received string:    "3.77"
+    at Proxy.<anonymous> (C:\Users\shyam\CoordinatePointsTool\node_modules\playwright\lib\matchers\expect.js:194:37)
+    at CommonPage.<anonymous> (C:\Users\shyam\CoordinatePointsTool\src\web\pages\CommonPage.ts:50:29)
+    at fulfilled (C:\Users\shyam\CoordinatePointsTool\src\web\pages\CommonPage.ts:5:58)
+2024-06-28 15:29:49 info: 	Getting text content of Message
+2024-06-28 15:29:50 info: 	Waiting for Message to be visible in DOM
+2024-06-28 15:29:50 info: 	##############################################################################
+2024-06-28 15:29:50 info: 	SCENARIO: VALID INPUT WITH MULTIPLE POINTS: 17 - FAILED
+2024-06-28 15:29:50 info: 	##############################################################################
+2024-06-28 15:29:50 info: 	##############################################################################
+2024-06-28 15:29:50 info: 	SCENARIO: VALID INPUT WITH MULTIPLE POINTS: 19 - STARTED
+2024-06-28 15:29:50 info: 	##############################################################################
+2024-06-28 15:29:50 info: 	Clicking on Analyze Button
+2024-06-28 15:29:50 info: 	Getting text content of Closest Point A
+2024-06-28 15:29:50 info: 	Waiting for Closest Point A to be visible in DOM
+2024-06-28 15:29:50 info: 	Getting text content of Closest Point B
+2024-06-28 15:29:50 info: 	Waiting for Closest Point B to be visible in DOM
+2024-06-28 15:29:50 info: 	Getting text content of Closest Distance
+2024-06-28 15:29:50 info: 	Waiting for Closest Distance to be visible in DOM
+2024-06-28 15:29:50 info: 	Getting text content of Furthest Point A
+2024-06-28 15:29:50 info: 	Waiting for Furthest Point A to be visible in DOM
+2024-06-28 15:29:50 info: 	Getting text content of Furthest Point B
+2024-06-28 15:29:50 info: 	Waiting for Furthest Point B to be visible in DOM
+2024-06-28 15:29:50 info: 	Getting text content of Furthest Distance
+2024-06-28 15:29:50 info: 	Waiting for Furthest Distance to be visible in DOM
+2024-06-28 15:29:50 info: 	Navigate to Home page
+2024-06-28 15:29:50 info: 	Getting text content of Average Distance
+2024-06-28 15:29:50 info: 	Waiting for Average Distance to be visible in DOM
+2024-06-28 15:29:50 info: 	##############################################################################
+2024-06-28 15:29:50 info: 	SCENARIO: VALID INPUT WITH MULTIPLE POINTS: 18 - PASSED
+2024-06-28 15:29:50 info: 	##############################################################################
+2024-06-28 15:29:50 info: 	##############################################################################
+2024-06-28 15:29:50 info: 	SCENARIO: VALID INPUT WITH MULTIPLE POINTS: 20 - STARTED
+2024-06-28 15:29:50 info: 	##############################################################################
+2024-06-28 15:29:50 info: 	Entering Coordinate Points as -1.0,-1.0 1.0,1.0 -2.0,-2.0 2.0,2.0
+2024-06-28 15:29:50 info: 	Navigate to Home page
+2024-06-28 15:29:50 info: 	Getting text content of Message
+2024-06-28 15:29:50 info: 	Waiting for Message to be visible in DOM
+2024-06-28 15:29:50 info: 	Clicking on Analyze Button
+2024-06-28 15:29:50 info: 	Getting text content of Closest Point A
+2024-06-28 15:29:50 info: 	Waiting for Closest Point A to be visible in DOM
+2024-06-28 15:29:50 info: 	Getting text content of Closest Point B
+2024-06-28 15:29:50 info: 	Waiting for Closest Point B to be visible in DOM
+2024-06-28 15:29:50 info: 	Getting text content of Closest Distance
+2024-06-28 15:29:50 info: 	Waiting for Closest Distance to be visible in DOM
+2024-06-28 15:29:50 info: 	Getting text content of Furthest Point A
+2024-06-28 15:29:50 info: 	Waiting for Furthest Point A to be visible in DOM
+2024-06-28 15:29:50 info: 	Entering Coordinate Points as 0.0,0.0 1.0,1.0 2.0,2.0 3.0,3.0 4.0,4.0 5.0,5.0 6.0,6.0 7.0,7.0 8.0,8.0 9.0,9.0
+2024-06-28 15:29:50 info: 	Getting text content of Furthest Point B
+2024-06-28 15:29:50 info: 	Waiting for Furthest Point B to be visible in DOM
+2024-06-28 15:29:50 info: 	Getting text content of Furthest Distance
+2024-06-28 15:29:50 info: 	Waiting for Furthest Distance to be visible in DOM
+2024-06-28 15:29:50 info: 	Getting text content of Average Distance
+2024-06-28 15:29:50 info: 	Waiting for Average Distance to be visible in DOM
+2024-06-28 15:29:51 info: 	##############################################################################
+2024-06-28 15:29:51 info: 	SCENARIO: VALID INPUT WITH MULTIPLE POINTS: 19 - PASSED
+2024-06-28 15:29:51 info: 	##############################################################################
+2024-06-28 15:29:51 info: 	##############################################################################
+2024-06-28 15:29:51 info: 	SCENARIO: INVALID INPUT FORMAT: 22 - STARTED
+2024-06-28 15:29:51 info: 	##############################################################################
+2024-06-28 15:29:51 info: 	Getting text content of Message
+2024-06-28 15:29:51 info: 	Waiting for Message to be visible in DOM
+2024-06-28 15:29:51 info: 	Clicking on Analyze Button
+2024-06-28 15:29:51 info: 	Getting text content of Closest Point A
+2024-06-28 15:29:51 info: 	Waiting for Closest Point A to be visible in DOM
+2024-06-28 15:29:51 info: 	Getting text content of Closest Point B
+2024-06-28 15:29:51 info: 	Waiting for Closest Point B to be visible in DOM
+2024-06-28 15:29:51 info: 	Navigate to Home page
+2024-06-28 15:29:51 info: 	Getting text content of Closest Distance
+2024-06-28 15:29:51 info: 	Waiting for Closest Distance to be visible in DOM
+2024-06-28 15:29:51 info: 	Getting text content of Furthest Point A
+2024-06-28 15:29:51 info: 	Waiting for Furthest Point A to be visible in DOM
+2024-06-28 15:29:51 info: 	Getting text content of Furthest Point B
+2024-06-28 15:29:51 info: 	Waiting for Furthest Point B to be visible in DOM
+2024-06-28 15:29:51 info: 	Getting text content of Furthest Distance
+2024-06-28 15:29:51 info: 	Waiting for Furthest Distance to be visible in DOM
+2024-06-28 15:29:51 info: 	Getting text content of Average Distance
+2024-06-28 15:29:51 info: 	Waiting for Average Distance to be visible in DOM
+2024-06-28 15:29:51 info: 	##############################################################################
+2024-06-28 15:29:51 info: 	SCENARIO: VALID INPUT WITH MULTIPLE POINTS: 20 - PASSED
+2024-06-28 15:29:51 info: 	##############################################################################
+2024-06-28 15:29:51 info: 	##############################################################################
+2024-06-28 15:29:51 info: 	SCENARIO: MORE THAN 10 PAIRS: 26 - STARTED
+2024-06-28 15:29:51 info: 	##############################################################################
+2024-06-28 15:29:51 info: 	Entering Coordinate Points as 0.0,0.0 1.0,1.0 invalid 2.0,2.0
+2024-06-28 15:29:51 info: 	Getting text content of Message
+2024-06-28 15:29:51 info: 	Waiting for Message to be visible in DOM
+2024-06-28 15:29:51 info: 	##############################################################################
+2024-06-28 15:29:51 info: 	SCENARIO: INVALID INPUT FORMAT: 22 - PASSED
+2024-06-28 15:29:51 info: 	##############################################################################
+2024-06-28 15:29:51 info: 	Navigate to Home page
+2024-06-28 15:29:51 info: 	Entering Coordinate Points as 0.0,0.0 1.0,1.0 2.0,2.0 3.0,3.0 4.0,4.0 5.0,5.0 6.0,6.0 7.0,7.0 8.0,8.0 9.0,9.0 10.0,10.0
+2024-06-28 15:29:52 info: 	Getting text content of Message
+2024-06-28 15:29:52 info: 	Waiting for Message to be visible in DOM
+2024-06-28 15:29:52 error: 	More than 10 pairs: 26 - FAILED
+Error: expect(received).toContain(expected) // indexOf
+
+Expected substring: "Too many coordinate points. Maximum allowed is 10 pairs"
+Received string:    "Valid input"
+    at Proxy.<anonymous> (C:\Users\shyam\CoordinatePointsTool\node_modules\playwright\lib\matchers\expect.js:194:37)
+    at CommonPage.<anonymous> (C:\Users\shyam\CoordinatePointsTool\src\web\pages\CommonPage.ts:59:33)
+    at fulfilled (C:\Users\shyam\CoordinatePointsTool\src\web\pages\CommonPage.ts:5:58)
+2024-06-28 15:29:52 info: 	##############################################################################
+2024-06-28 15:29:52 info: 	SCENARIO: MORE THAN 10 PAIRS: 26 - FAILED
+2024-06-28 15:29:52 info: 	##############################################################################
