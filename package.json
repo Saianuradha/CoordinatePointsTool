@@ -12,7 +12,7 @@
     "dry:test": "npx cucumber-js -p runner --dry-run"
   },
   "keywords": [],
-  "author": "",
+  "author": "Sai",
   "license": "ISC",
   "dependencies": {
     "@cucumber/cucumber": "^10.8.0",
