@@ -24,6 +24,10 @@ Scenario: Invalid input format
     When I enter "0.0,0.0 1.0,1.0 invalid 2.0,2.0" into the input box
     Then I should see "Please make sure the input follows the format required" validation message
 
+Scenario: With minimum points
+    When I enter "0.0 1.0" into the input box
+    Then I should see "Please enter more than 1 point" validation message
+
   Scenario: More than 10 pairs
     When I enter "0.0,0.0 1.0,1.0 2.0,2.0 3.0,3.0 4.0,4.0 5.0,5.0 6.0,6.0 7.0,7.0 8.0,8.0 9.0,9.0 10.0,10.0" into the input box
     Then I should see "Too many coordinate points. Maximum allowed is 10 pairs" validation message
