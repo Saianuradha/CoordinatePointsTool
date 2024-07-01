@@ -1,1 +1,1 @@
-features\web\coordinatePoints.feature:17:26
+features\web\coordinatePoints.feature:31
