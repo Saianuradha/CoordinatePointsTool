@@ -14,7 +14,6 @@ Scenario Outline: Valid input with multiple points
 Examples:
   | inputPoints             | closestPointA | closestPointB | closestDistance | furthestPointA | furthestPointB | furthestDistance | averageDistance |
   | 0.0,1.0 2.0,3.0 4.0,5.0 | 0.0,1.0       | 2.0,3.0       | 2.83            | 0.0,1.0        | 4.0,5.0        | 5.66              | 3.77            |
-  | 0.0,1.0 2.0,3.0 4.0,5.0 | 0.0,1.0       | 2.0,3.0       | 2.83            | 0.0,1.0        | 4.0,5.0        | 5.66              | 4.24            |
   | 0.0,0.0 1.0,1.0         | 0.0,0.0       | 1.0,1.0       | 1.41            | 0.0,0.0        | 1.0,1.0        | 1.41              | 1.41            |
   | 1.0,1.0 1.0,1.0 2.0,2.0 | 1.0,1.0       | 1.0,1.0       | 0.00            | 1.0,1.0        | 2.0,2.0        | 1.41              | 0.94            |
   | 1.0,1.0 1.0,1.0 1.0,1.0 | 1.0,1.0       | 1.0,1.0       | 0.00            | 1.0,1.0        | 1.0,1.0        | 0.00              | 0.00            |
