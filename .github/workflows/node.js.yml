@@ -51,7 +51,6 @@ jobs:
         path: "**/cucumber.json"
 
   upload:
-    needs: tests
     name: Upload test report to pages
     environment:
       name: github-pages
