@@ -1,6 +1,8 @@
 
-<br>
 # Coordinate Points Comparision Tool Test Automation
+
+[![Automation Test Execution](https://github.com/saianuradha/CoordinatePointsTool/actions/workflows/node.js.yml/badge.svg)](https://github.com/saianuradha/CoordinatePointsTool/actions/workflows/node.js.yml)
+
 
 ## **Overview:**
 
