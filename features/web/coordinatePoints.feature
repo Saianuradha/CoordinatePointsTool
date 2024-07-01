@@ -25,7 +25,7 @@ Scenario: Invalid input format
     Then I should see "Please make sure the input follows the format required" validation message
 
 Scenario: With minimum points
-    When I enter "0.0 1.0" into the input box
+    When I enter "9.0,1.0" into the input box
     Then I should see "Please enter more than 1 point" validation message
 
   Scenario: More than 10 pairs
