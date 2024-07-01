@@ -3,6 +3,8 @@
 
 [![Automation Test Execution](https://github.com/saianuradha/CoordinatePointsTool/actions/workflows/node.js.yml/badge.svg)](https://github.com/saianuradha/CoordinatePointsTool/actions/workflows/node.js.yml)
 
+[![Online-Report](https://img.shields.io/badge/Report-Online-blue.svg)](https://saianuradha.github.io/CoordinatePointsTool/index.html)
+
 
 ## **Overview:**
 
