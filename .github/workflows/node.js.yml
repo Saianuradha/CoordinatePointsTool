@@ -51,6 +51,8 @@ jobs:
         path: "**/cucumber.json"
 
   upload:
+    if: always()
+    needs: tests
     name: Upload test report to pages
     environment:
       name: github-pages
@@ -68,3 +70,5 @@ jobs:
     - name: Deploy to GitHub Pages
       id: deployment
       uses: actions/deploy-pages@v4
+    
+  
