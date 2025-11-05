@@ -271,4 +271,23 @@ export default class UIElementActions {
     await this.getLocator().evaluate((node: HTMLElement) => { node.click(); });
     return this;
   }
+  // In UIElementActions.ts
+
+// Returns the text content of the element
+// async getTextContent() {
+//     return await this.locator.textContent();
+// }
+
+// Returns the inner text of the element
+async getText() {
+    return await this.locator.innerText();
+}
+
+// Returns an array of inner texts for all matching elements (e.g., for table headers/rows)
+async getAllInnerTexts(subSelector?: string) {
+    if (subSelector) {
+        return await this.locator.locator(subSelector).allInnerTexts();
+    }
+    return await this.locator.allInnerTexts();
+}
 }

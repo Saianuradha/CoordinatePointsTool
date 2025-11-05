@@ -1,1 +1,2 @@
-features\web\coordinatePoints.feature:31
+features\web\EnhancedTestCases.feature:31:39:49:54:59:64:69:78:83:88:93:102:107:112:117:127:133:138:147:152:157:165:175:182:189:195:202:209:215:226:237:242:251:284:289:293:298:308:321:339:350:355
+features\web\coordinatePoints.feature:30

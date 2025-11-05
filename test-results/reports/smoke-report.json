@@ -1,0 +1,100 @@
+[
+  {
+    "description": "",
+    "elements": [
+      {
+        "description": "",
+        "id": "coordinate-points-tool;invalid-input-format",
+        "keyword": "Scenario",
+        "line": 23,
+        "name": "Invalid input format",
+        "steps": [
+          {
+            "keyword": "Before",
+            "hidden": true,
+            "result": {
+              "status": "passed",
+              "duration": 334114899
+            }
+          },
+          {
+            "keyword": "Before",
+            "hidden": true,
+            "result": {
+              "status": "passed",
+              "duration": 3365600
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 4,
+            "name": "I navigate to the coordinate points tool",
+            "match": {
+              "location": "src\\web\\steps\\coordinatePointsSteps.ts:5"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 486428600
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 24,
+            "name": "I enter \"0.0,0.0 1.0,1.0 invalid 2.0,2.0\" into the input box",
+            "match": {
+              "location": "src\\web\\steps\\coordinatePointsSteps.ts:9"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 109535199
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 25,
+            "name": "I should see \"Please make sure the input follows the format required\" validation message",
+            "match": {
+              "location": "src\\web\\steps\\coordinatePointsSteps.ts:13"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 17451500
+            }
+          },
+          {
+            "keyword": "After",
+            "hidden": true,
+            "result": {
+              "status": "passed",
+              "duration": 55515300
+            }
+          },
+          {
+            "keyword": "After",
+            "hidden": true,
+            "result": {
+              "status": "passed",
+              "duration": 1706999
+            }
+          }
+        ],
+        "tags": [
+          {
+            "name": "@smoke",
+            "line": 22
+          }
+        ],
+        "type": "scenario"
+      }
+    ],
+    "id": "coordinate-points-tool",
+    "line": 1,
+    "keyword": "Feature",
+    "name": "Coordinate Points Tool",
+    "tags": [],
+    "uri": "features\\web\\coordinatePoints.feature"
+  }
+]

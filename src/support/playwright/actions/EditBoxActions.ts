@@ -69,4 +69,9 @@ export default class EditBoxActions extends UIElementActions {
     await this.getLocator().press("Tab");
     return this;
   }
+  
+    public async getValue() {
+        return await this.locator.inputValue();
+    }
+
 }
